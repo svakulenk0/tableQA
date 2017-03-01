@@ -31,10 +31,10 @@ This project is licensed under the MIT License
 
 ### Keras Deep QA examples
 
-* (Deep Language Modeling for Question Answering using Keras. Benjamin Bolte. 2016)[http://ben.bolte.cc/blog/2016/keras-language-modeling.html]
-* (babi_rnn 2016)[https://github.com/fchollet/keras/blob/master/examples/babi_rnn.py]
+* [Deep Language Modeling for Question Answering using Keras. Benjamin Bolte. 2016](http://ben.bolte.cc/blog/2016/keras-language-modeling.html)
+* [babi_rnn 2016](https://github.com/fchollet/keras/blob/master/examples/babi_rnn.py)
 
 ### Tables QA
 
-* (Neural Enquirer: Learning to Query Tables with Natural Language. IJCAI. 2016)[https://arxiv.org/pdf/1512.00965.pdf]
+* [Neural Enquirer: Learning to Query Tables with Natural Language. IJCAI. 2016](https://arxiv.org/pdf/1512.00965.pdf)
 
