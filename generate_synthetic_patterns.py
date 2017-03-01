@@ -21,9 +21,11 @@ import random
 CITIES = ['Wien', 'Graz', 'Linz', 'Villach', 'Salzburg', 'Klagenfurt', 'Bludenz', 'Feldkirch']
 N_SAMPLES = 500
 
-PATTERN_1 = '''1 City : {}, Immigration : {} .
-2 City : {}, Immigration : {} .
-3 What is the immigration in {}?\t{}\t{}
+DATA_FIELDS = ['City', 'Immigration', 'Emmigration']
+
+PATTERN_1 = '''1 {} : {}, {} : {} .
+2 {} : {}, {} : {} .
+3 What is the {} in {}?\t{}\t{}
 '''
 
 PATTERN_2 = '''1 City : {}, Immigration : {}, Emmigration : {}.
@@ -34,27 +36,31 @@ PATTERN_2 = '''1 City : {}, Immigration : {}, Emmigration : {}.
 '''
 
 path = './data/synth_data.txt'
-with open(path, 'w') as f:
+with open(path, 'w') as file:
+    # init data fields for the patterns
+    f = DATA_FIELDS
     # generate N_SAMPLES random data samples
     for _ in xrange(N_SAMPLES):
-        # place holders 1st field
+        # place holder values 1st field
         cities = CITIES[:]
-        ph1 = []
+        v0 = []
         city = random.choice(cities)  # random string
-        ph1.append(city)  # random string
+        v0.append(city)  # random string
         cities.remove(city)
-        ph1.append(random.choice(cities))  # random string
+        v0.append(random.choice(cities))  # random string
 
-        # place holders 2nd field
-        ph2 = []
-        ph2.append(random.randrange(10, 20))  # random number
-        ph2.append(random.randrange(10, 20))  # random number
+        # place holder values 2nd field
+        v1 = []
+        v1.append(random.randrange(10, 20))  # random number
+        v1.append(random.randrange(10, 20))  # random number
 
-        # choose question at random
+        # choose data sample to query at random
         q = random.randrange(0, 2)
 
         # define textual pattern
-        pattern = PATTERN_1.format(ph1[0], ph2[0], ph1[1], ph2[1], ph1[q], ph2[q], q+1)
+        pattern = PATTERN_1.format(f[0], v0[0], f[1], v1[0],
+                                   f[0], v0[1], f[1], v1[1],
+                                   f[1], v0[q], v1[q], q+1)
 
 
-        f.write(pattern)
+        file.write(pattern)
