@@ -71,7 +71,7 @@ def profile_table(table):
     distribution = [len(set(table[c])) for c in table]
     print 'Number of unique values:', distribution
     print 'Mean:', np.mean(distribution)
-    print 'Unique values:', [list(set(table[c]))[:5] for c in table]
+    print 'Samples of unique values:', [list(set(table[c]))[:5] for c in table]
     types = [type(list(set(table[c]))[0]) for c in table]
     print 'Column types:', types
     string_columns = [idx for idx, c in enumerate(table) if isinstance(list(set(table[c]))[0], str)]
@@ -83,6 +83,17 @@ def profile_table(table):
     # find the column with distinct categorical values to use for question generation
     # TODO find string columns
     # value distributions in columns, e.g. number of unique values
+
+
+def generate_synth_table():
+    '''
+    Generate a synthethic table for training neural network based on a real table statistics
+    to increase the number of samples and decrease variance in the columns' domains.
+    '''
+    pass
+    # profile
+    # generate training samples
+    # TODO test on the real table data
 
 
 class TableParser():
@@ -145,19 +156,6 @@ class TableParser():
 
         # print columns[q], row[q]
 
-# def generate_qa(data_path):
-#     with open(data_path) as f:
-#         for line in f.readlines():
-#             line = line.decode('utf-8').strip()
-#             sent = tokenize(line)
-#             print sent
-
-
-# def test_generate_qa():
-#     # data = get_tables(TABLE_DATA)
-#     # print data
-#     generate_qa(TABLE_DATA)
-
 
 def test_generate_data():
     tables = collect_tables([SAMPLE_TABLE])
@@ -165,6 +163,13 @@ def test_generate_data():
         print path
         tp = TableParser()
         tp.generate_data(table)
+
+
+def generate_synth_table():
+    tables = collect_tables([SAMPLE_TABLE])
+    for path, table in tables.items():
+        print path
+        profile_table(table)
 
 
 class TestTableParser(unittest.TestCase):
@@ -182,6 +187,6 @@ class TestTableParser(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main()
+    # unittest.main()
+    generate_synth_table()
         # test_generate_data()
-    # test_generate_qa()
