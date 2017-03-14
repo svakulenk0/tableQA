@@ -108,7 +108,14 @@ class TableParser():
                 # print row
                 values = []
                 for idx, value in enumerate(row[1:]):
-                    values.append(str(self.columns[idx]) + ' : ' + str(value))
+                    if isinstance(value, str):
+                        values.append(self.columns[idx] + ' : ' + value)
+
+                        # try:
+                        #     value = value.encode('utf-8')
+                        # except:
+                        #     print value
+                    values.append(self.columns[idx] + ' : ' + str(value))
                 data_string += ', '.join(values) + ' .\n'
                 self.out_file.write(data_string)
                 self.rows.append(row)
@@ -167,7 +174,7 @@ class TestTableParser(unittest.TestCase):
             print path
             print table.columns.values
 
-    def test_profile_table():
+    def test_profile_table(self):
         tables = collect_tables([SAMPLE_TABLE])
         for path, table in tables.items():
             print path
@@ -175,7 +182,6 @@ class TestTableParser(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    # unittest.main()
-    test_generate_data()
+    unittest.main()
+        # test_generate_data()
     # test_generate_qa()
-    # test_profile_table()
