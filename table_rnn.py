@@ -18,6 +18,9 @@ from __future__ import print_function
 from functools import reduce
 import re
 import io
+import sys
+
+from parse_table import tokenize
 
 import numpy as np
 np.random.seed(1337)  # for reproducibility
@@ -38,15 +41,6 @@ BATCH_SIZE = 32
 EPOCHS = 40
 
 
-def tokenize(sent):
-    '''Return the tokens of a sentence including punctuation.
-
-    >>> tokenize('Bob dropped the apple. Where is the apple?')
-    ['Bob', 'dropped', 'the', 'apple', '.', 'Where', 'is', 'the', 'apple', '?']
-    '''
-    return [x.strip() for x in re.split('(\W+)?', sent) if x.strip()]
-
-
 def parse_stories(lines, only_supporting=False):
     '''Parse stories provided in the bAbi tasks format
 
@@ -55,27 +49,31 @@ def parse_stories(lines, only_supporting=False):
     data = []
     story = []
     for line in lines:
-        line = line.decode('utf-8').strip()
-        nid, line = line.split(' ', 1)
-        nid = int(nid)
-        if nid == 1:
-            story = []
-        if '\t' in line:
-            q, a, supporting = line.split('\t')
-            q = tokenize(q)
-            substory = None
-            if only_supporting:
-                # Only select the related substory
-                supporting = map(int, supporting.split())
-                substory = [story[i - 1] for i in supporting]
+        try:
+            line = line.decode('utf-8').strip()
+            nid, line = line.split(' ', 1)
+            nid = int(nid)
+            if nid == 1:
+                story = []
+            if '\t' in line:
+                q, a, supporting = line.split('\t')
+                q = tokenize(q)
+                substory = None
+                if only_supporting:
+                    # Only select the related substory
+                    supporting = map(int, supporting.split())
+                    substory = [story[i - 1] for i in supporting]
+                else:
+                    # Provide all the substories
+                    substory = [x for x in story if x]
+                data.append((substory, q, a))
+                story.append('')
             else:
-                # Provide all the substories
-                substory = [x for x in story if x]
-            data.append((substory, q, a))
-            story.append('')
-        else:
-            sent = tokenize(line)
-            story.append(sent)
+                sent = tokenize(line)
+                story.append(sent)
+        except:
+            e = sys.exc_info()[0]
+            print(e)
     return data
 
 
@@ -86,6 +84,7 @@ def get_tables(path, only_supporting=False, max_length=None):
     '''
     with open(path) as f:
         data = parse_stories(f.readlines(), only_supporting=only_supporting)
+        # print(data)
         flatten = lambda data: reduce(lambda x, y: x + y, data)
         data = [(flatten(story), q, answer) for story, q, answer in data if not max_length or len(flatten(story)) < max_length]
         return data
@@ -163,8 +162,11 @@ def train_rnn(train, test):
 
 
 if __name__ == "__main__":
-    data_path = './data/synth_data_{}.txt'
+    # data_path = './data/synth_data_{}.txt'
+    # data_path = './data/table_data_{}.txt'
+    data_path = './data/sim_data_{}.txt'
     train = get_tables(data_path.format('train'))
     test = get_tables(data_path.format('test'))
+    # print (test)
     print('RNN / Embed / Sent / Query = {}, {}, {}, {}'.format(RNN, EMBED_HIDDEN_SIZE, SENT_HIDDEN_SIZE, QUERY_HIDDEN_SIZE))
     train_rnn(train, test)
