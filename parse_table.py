@@ -20,6 +20,7 @@ import random
 PATH = './data/'
 SAMPLE_TABLE = 'OOE_Wanderungen_Zeitreihe.csv'
 TABLE_DATA = './data/table_data.txt'
+SIM_DATA = './data/sim_data.txt'
 
 QUESTION_TEMPLATE = 'What is the {} for {}?\t{}\t{}'
 # QUESTION_TEMPLATE = 'What is the {} in {}?\t{}\t{}'
@@ -63,37 +64,34 @@ def collect_tables(files):
     return read_tables(fps, delimiter=';')
 
 
-def profile_table(table):
+def profile_table(table, n_samples=10):
     columns = table.columns
     print len(table), 'rows'
     print len(columns), 'columns'
     print 'Header:', columns.values
+    # value distributions across columns
     distribution = [len(set(table[c])) for c in table]
     print 'Number of unique values:', distribution
     print 'Mean:', np.mean(distribution)
-    print 'Samples of unique values:', [list(set(table[c]))[:5] for c in table]
+    sample_values = [list(set(table[c]))[:n_samples] for c in table]
+    print 'Samples of unique values:', sample_values
+    return sample_values
     types = [type(list(set(table[c]))[0]) for c in table]
     print 'Column types:', types
+    # print [len(set(c)) for c in columns]
+
+
+def get_cat_columns(table):
+    '''
+    Finds the columns with distinct categorical values to use for question generation
+    '''
+    # value distributions across columns
+    distribution = [len(set(table[c])) for c in table]
     string_columns = [idx for idx, c in enumerate(table) if isinstance(list(set(table[c]))[0], str)]
     # categorical fields
     print 'String columns:', string_columns
     # exclude non-discriminative columns
     return [idx for idx in string_columns if distribution[idx] > 1]
-    # print [len(set(c)) for c in columns]
-    # find the column with distinct categorical values to use for question generation
-    # TODO find string columns
-    # value distributions in columns, e.g. number of unique values
-
-
-def generate_synth_table():
-    '''
-    Generate a synthethic table for training neural network based on a real table statistics
-    to increase the number of samples and decrease variance in the columns' domains.
-    '''
-    pass
-    # profile
-    # generate training samples
-    # TODO test on the real table data
 
 
 class TableParser():
@@ -102,14 +100,52 @@ class TableParser():
     '''
 
     def __init__(self, size=2):
+        '''
+        size <int> of the generated table, i.e. the number of rows
+        '''
         self.size = size
         self.count = 0
         self.qs = []
+        self.qas = 0
+
+    def simulate_data(self, table, out_path=SIM_DATA, n_tables = 500):
+        '''
+        Simulate as much data as needed for training. But test on the real table data!
+        Generate a synthethic table for training neural network based on a real table statistics
+        to increase the number of samples and decrease variance in the columns' domains.
+        '''
+        with open(out_path, 'w') as self.out_file:
+            self.columns = table.columns.values
+            sample_values = profile_table(table)
+            cat_columns = get_cat_columns(table)
+            print cat_columns
+            self.rows = []
+            # generate N_SAMPLES random training data samples
+            while self.qas < n_tables:
+                self.count += 1
+                data_string = str(self.count) + ' '
+                values = []
+                row = [self.count]
+                for idx in xrange(len(self.columns)):
+                    # TODO pick sample value at random
+                    value = random.choice(sample_values[idx])
+                    row.append(value)
+                    if isinstance(value, str):
+                        values.append(self.columns[idx] + ' : ' + value)
+                    else:
+                        values.append(self.columns[idx] + ' : ' + str(value))
+                data_string += ', '.join(values) + ' .\n'
+                self.out_file.write(data_string)
+                self.rows.append(row)
+                # write random qa after every 2nd sample
+                if self.count % self.size == 0:
+                    # generate qa 
+                    self.generate_qa(cat_columns[0])
 
     def generate_data(self, table, out_path=TABLE_DATA):
         with open(out_path, 'w') as self.out_file:
             self.columns = table.columns.values
-            cat_columns = profile_table(table)
+            cat_columns = get_cat_columns(table)
             print cat_columns
             self.rows = []
             for row in table.itertuples():
@@ -120,13 +156,9 @@ class TableParser():
                 values = []
                 for idx, value in enumerate(row[1:]):
                     if isinstance(value, str):
-                        values.append(self.columns[idx] + ' : ' + value)
-
-                        # try:
-                        #     value = value.encode('utf-8')
-                        # except:
-                        #     print value
-                    values.append(self.columns[idx] + ' : ' + str(value))
+                        values.append(self.columns[idx] + ' : ' + value.encode('utf-8'))
+                    else:
+                        values.append(self.columns[idx] + ' : ' + str(value))
                 data_string += ', '.join(values) + ' .\n'
                 self.out_file.write(data_string)
                 self.rows.append(row)
@@ -134,7 +166,6 @@ class TableParser():
                 if self.count % self.size == 0:
                     # generate qa 
                     self.generate_qa(cat_columns[0])
-
 
     def generate_qa(self, cat):
         # print row
@@ -146,10 +177,12 @@ class TableParser():
         # skip
         if q == cat:
             return
+        # print self.rows
         q_string = QUESTION_TEMPLATE.format(self.columns[q], self.rows[s][cat+1],
                                             self.rows[s][q+1],  s+1)
         self.count += 1
         self.out_file.write(str(self.count) + ' ' + q_string + '\n')
+        self.qas += 1
         # reset table
         self.count = 0
         self.rows = []
@@ -157,7 +190,7 @@ class TableParser():
         # print columns[q], row[q]
 
 
-def test_generate_data():
+def test_format_table():
     tables = collect_tables([SAMPLE_TABLE])
     for path, table in tables.items():
         print path
@@ -165,11 +198,12 @@ def test_generate_data():
         tp.generate_data(table)
 
 
-def generate_synth_table():
+def test_simulate_table():
     tables = collect_tables([SAMPLE_TABLE])
     for path, table in tables.items():
         print path
-        profile_table(table)
+        tp = TableParser()
+        tp.simulate_data(table)
 
 
 class TestTableParser(unittest.TestCase):
@@ -188,5 +222,5 @@ class TestTableParser(unittest.TestCase):
 
 if __name__ == '__main__':
     # unittest.main()
-    generate_synth_table()
-        # test_generate_data()
+    # test_format_table()
+    test_simulate_table()
