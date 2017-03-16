@@ -14,13 +14,14 @@ Question answering on tables using deep learning.
 
 1. Syntheticaly generated data samples of T/QA (table/question+answer)
 
-Number of training samples: 10000
-Train on 9500 samples, validate on 500 samples
-Number of test samples: 500
-
 Patterns:
 
-* Pattern1 
+* Pattern1
+
+Number of training samples: 10000 (Train on 9500 samples, validate on 500 samples)
+Number of test samples: 500
+
+Sample:
 
 1 City : Graz, Immigration : 13 .
 2 City : Wien, Immigration : 18 .
@@ -75,10 +76,23 @@ Test loss / test accuracy = 0.0245 / 0.9900
 
 ** MemNN
 
-120 Epochs + EarlyStopping
+=> 120 Epochs
 
-loss: 0.0038 - acc: 0.9990 - val_loss: 11.8909 - val_acc: 0.1680
-[Finished in 417.5s]
+Training loss: 0.1300 - acc: 0.9584 - val_loss: 0.0294 - val_acc: 1.0000
+
+Test loss / test accuracy = 7.9514 / 0.2000
+
+[Finished in 401.3s]
+
+=> 120 Epochs + earlyStopping (patience=2)
+
+Epoch 39
+
+Training loss: 0.8698 - acc: 0.5498 - val_loss: 0.7459 - val_acc: 0.5200
+
+Test loss / test accuracy = 3.5823 / 0.2680
+
+[Finished in 146.1s]
 
 * Pattern2
 
