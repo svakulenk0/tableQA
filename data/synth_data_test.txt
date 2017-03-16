@@ -1,1500 +1,1500 @@
-1 City : Bludenz, Immigration : 13 .
-2 City : Feldkirch, Immigration : 16 .
-3 What is the immigration in Feldkirch?	16	2
-1 City : Klagenfurt, Immigration : 13 .
-2 City : Feldkirch, Immigration : 12 .
-3 What is the immigration in Klagenfurt?	13	1
-1 City : Villach, Immigration : 17 .
-2 City : Salzburg, Immigration : 19 .
-3 What is the immigration in Salzburg?	19	2
-1 City : Villach, Immigration : 13 .
-2 City : Feldkirch, Immigration : 15 .
-3 What is the immigration in Villach?	13	1
-1 City : Linz, Immigration : 17 .
-2 City : Graz, Immigration : 15 .
-3 What is the immigration in Linz?	17	1
-1 City : Graz, Immigration : 10 .
-2 City : Feldkirch, Immigration : 18 .
-3 What is the immigration in Graz?	10	1
-1 City : Villach, Immigration : 13 .
-2 City : Klagenfurt, Immigration : 12 .
-3 What is the immigration in Klagenfurt?	12	2
-1 City : Graz, Immigration : 17 .
-2 City : Feldkirch, Immigration : 13 .
-3 What is the immigration in Graz?	17	1
-1 City : Feldkirch, Immigration : 12 .
-2 City : Linz, Immigration : 17 .
-3 What is the immigration in Feldkirch?	12	1
-1 City : Klagenfurt, Immigration : 11 .
-2 City : Wien, Immigration : 17 .
-3 What is the immigration in Klagenfurt?	11	1
-1 City : Bludenz, Immigration : 10 .
-2 City : Wien, Immigration : 10 .
-3 What is the immigration in Bludenz?	10	1
-1 City : Salzburg, Immigration : 11 .
-2 City : Wien, Immigration : 16 .
-3 What is the immigration in Wien?	16	2
-1 City : Linz, Immigration : 11 .
-2 City : Graz, Immigration : 18 .
-3 What is the immigration in Linz?	11	1
-1 City : Linz, Immigration : 12 .
-2 City : Wien, Immigration : 18 .
-3 What is the immigration in Wien?	18	2
-1 City : Graz, Immigration : 12 .
-2 City : Salzburg, Immigration : 15 .
-3 What is the immigration in Graz?	12	1
-1 City : Bludenz, Immigration : 10 .
-2 City : Graz, Immigration : 11 .
-3 What is the immigration in Bludenz?	10	1
-1 City : Graz, Immigration : 16 .
-2 City : Feldkirch, Immigration : 10 .
-3 What is the immigration in Graz?	16	1
-1 City : Klagenfurt, Immigration : 19 .
-2 City : Feldkirch, Immigration : 11 .
-3 What is the immigration in Klagenfurt?	19	1
-1 City : Feldkirch, Immigration : 18 .
-2 City : Linz, Immigration : 19 .
-3 What is the immigration in Linz?	19	2
-1 City : Salzburg, Immigration : 11 .
-2 City : Bludenz, Immigration : 12 .
-3 What is the immigration in Salzburg?	11	1
-1 City : Villach, Immigration : 16 .
-2 City : Graz, Immigration : 18 .
-3 What is the immigration in Graz?	18	2
-1 City : Klagenfurt, Immigration : 16 .
-2 City : Linz, Immigration : 13 .
-3 What is the immigration in Linz?	13	2
-1 City : Linz, Immigration : 17 .
-2 City : Feldkirch, Immigration : 16 .
-3 What is the immigration in Linz?	17	1
-1 City : Wien, Immigration : 15 .
-2 City : Feldkirch, Immigration : 18 .
-3 What is the immigration in Wien?	15	1
-1 City : Klagenfurt, Immigration : 10 .
-2 City : Villach, Immigration : 11 .
-3 What is the immigration in Villach?	11	2
-1 City : Salzburg, Immigration : 17 .
-2 City : Graz, Immigration : 15 .
-3 What is the immigration in Graz?	15	2
-1 City : Bludenz, Immigration : 11 .
-2 City : Linz, Immigration : 18 .
-3 What is the immigration in Bludenz?	11	1
-1 City : Graz, Immigration : 14 .
-2 City : Klagenfurt, Immigration : 13 .
-3 What is the immigration in Graz?	14	1
-1 City : Salzburg, Immigration : 10 .
-2 City : Linz, Immigration : 18 .
-3 What is the immigration in Linz?	18	2
-1 City : Villach, Immigration : 19 .
-2 City : Salzburg, Immigration : 13 .
-3 What is the immigration in Salzburg?	13	2
-1 City : Salzburg, Immigration : 18 .
-2 City : Wien, Immigration : 16 .
-3 What is the immigration in Salzburg?	18	1
-1 City : Wien, Immigration : 18 .
-2 City : Salzburg, Immigration : 10 .
-3 What is the immigration in Salzburg?	10	2
-1 City : Bludenz, Immigration : 16 .
-2 City : Graz, Immigration : 11 .
-3 What is the immigration in Bludenz?	16	1
-1 City : Feldkirch, Immigration : 10 .
-2 City : Graz, Immigration : 15 .
-3 What is the immigration in Feldkirch?	10	1
-1 City : Linz, Immigration : 15 .
-2 City : Villach, Immigration : 17 .
-3 What is the immigration in Linz?	15	1
-1 City : Bludenz, Immigration : 19 .
-2 City : Wien, Immigration : 16 .
-3 What is the immigration in Bludenz?	19	1
-1 City : Linz, Immigration : 13 .
-2 City : Salzburg, Immigration : 13 .
-3 What is the immigration in Salzburg?	13	2
-1 City : Salzburg, Immigration : 19 .
-2 City : Villach, Immigration : 10 .
-3 What is the immigration in Salzburg?	19	1
-1 City : Villach, Immigration : 15 .
-2 City : Salzburg, Immigration : 17 .
-3 What is the immigration in Villach?	15	1
-1 City : Linz, Immigration : 15 .
-2 City : Bludenz, Immigration : 15 .
-3 What is the immigration in Linz?	15	1
-1 City : Bludenz, Immigration : 11 .
-2 City : Wien, Immigration : 10 .
-3 What is the immigration in Wien?	10	2
-1 City : Villach, Immigration : 18 .
-2 City : Linz, Immigration : 11 .
-3 What is the immigration in Villach?	18	1
-1 City : Salzburg, Immigration : 12 .
-2 City : Feldkirch, Immigration : 19 .
-3 What is the immigration in Feldkirch?	19	2
-1 City : Klagenfurt, Immigration : 17 .
-2 City : Villach, Immigration : 10 .
-3 What is the immigration in Villach?	10	2
-1 City : Graz, Immigration : 19 .
-2 City : Bludenz, Immigration : 12 .
-3 What is the immigration in Graz?	19	1
-1 City : Wien, Immigration : 13 .
-2 City : Klagenfurt, Immigration : 18 .
-3 What is the immigration in Klagenfurt?	18	2
-1 City : Bludenz, Immigration : 18 .
-2 City : Villach, Immigration : 16 .
-3 What is the immigration in Bludenz?	18	1
-1 City : Salzburg, Immigration : 16 .
-2 City : Wien, Immigration : 11 .
-3 What is the immigration in Wien?	11	2
-1 City : Villach, Immigration : 17 .
-2 City : Klagenfurt, Immigration : 15 .
-3 What is the immigration in Villach?	17	1
-1 City : Graz, Immigration : 16 .
-2 City : Bludenz, Immigration : 14 .
-3 What is the immigration in Bludenz?	14	2
-1 City : Wien, Immigration : 17 .
-2 City : Bludenz, Immigration : 19 .
-3 What is the immigration in Bludenz?	19	2
-1 City : Salzburg, Immigration : 13 .
-2 City : Linz, Immigration : 15 .
-3 What is the immigration in Linz?	15	2
-1 City : Linz, Immigration : 11 .
-2 City : Wien, Immigration : 18 .
-3 What is the immigration in Wien?	18	2
-1 City : Villach, Immigration : 10 .
-2 City : Klagenfurt, Immigration : 17 .
-3 What is the immigration in Klagenfurt?	17	2
-1 City : Linz, Immigration : 18 .
-2 City : Salzburg, Immigration : 18 .
-3 What is the immigration in Salzburg?	18	2
-1 City : Feldkirch, Immigration : 17 .
-2 City : Graz, Immigration : 11 .
-3 What is the immigration in Graz?	11	2
-1 City : Wien, Immigration : 10 .
-2 City : Villach, Immigration : 17 .
-3 What is the immigration in Villach?	17	2
-1 City : Villach, Immigration : 15 .
-2 City : Bludenz, Immigration : 18 .
-3 What is the immigration in Bludenz?	18	2
-1 City : Bludenz, Immigration : 10 .
-2 City : Klagenfurt, Immigration : 15 .
-3 What is the immigration in Klagenfurt?	15	2
-1 City : Bludenz, Immigration : 13 .
-2 City : Wien, Immigration : 15 .
-3 What is the immigration in Bludenz?	13	1
-1 City : Klagenfurt, Immigration : 11 .
-2 City : Salzburg, Immigration : 11 .
-3 What is the immigration in Salzburg?	11	2
-1 City : Salzburg, Immigration : 16 .
-2 City : Linz, Immigration : 12 .
-3 What is the immigration in Salzburg?	16	1
-1 City : Villach, Immigration : 10 .
-2 City : Bludenz, Immigration : 19 .
-3 What is the immigration in Bludenz?	19	2
-1 City : Klagenfurt, Immigration : 15 .
-2 City : Wien, Immigration : 18 .
-3 What is the immigration in Klagenfurt?	15	1
-1 City : Wien, Immigration : 19 .
-2 City : Bludenz, Immigration : 16 .
-3 What is the immigration in Bludenz?	16	2
-1 City : Wien, Immigration : 15 .
-2 City : Linz, Immigration : 12 .
-3 What is the immigration in Linz?	12	2
-1 City : Salzburg, Immigration : 10 .
-2 City : Villach, Immigration : 12 .
-3 What is the immigration in Salzburg?	10	1
-1 City : Salzburg, Immigration : 16 .
-2 City : Graz, Immigration : 19 .
-3 What is the immigration in Graz?	19	2
-1 City : Klagenfurt, Immigration : 18 .
-2 City : Linz, Immigration : 10 .
-3 What is the immigration in Klagenfurt?	18	1
-1 City : Bludenz, Immigration : 13 .
-2 City : Klagenfurt, Immigration : 10 .
-3 What is the immigration in Bludenz?	13	1
-1 City : Feldkirch, Immigration : 19 .
-2 City : Wien, Immigration : 12 .
-3 What is the immigration in Feldkirch?	19	1
-1 City : Villach, Immigration : 12 .
-2 City : Feldkirch, Immigration : 18 .
-3 What is the immigration in Feldkirch?	18	2
-1 City : Bludenz, Immigration : 10 .
-2 City : Wien, Immigration : 11 .
-3 What is the immigration in Bludenz?	10	1
-1 City : Wien, Immigration : 15 .
-2 City : Feldkirch, Immigration : 17 .
-3 What is the immigration in Wien?	15	1
-1 City : Wien, Immigration : 14 .
-2 City : Feldkirch, Immigration : 11 .
-3 What is the immigration in Feldkirch?	11	2
-1 City : Salzburg, Immigration : 10 .
-2 City : Graz, Immigration : 10 .
-3 What is the immigration in Graz?	10	2
-1 City : Linz, Immigration : 13 .
-2 City : Feldkirch, Immigration : 12 .
-3 What is the immigration in Feldkirch?	12	2
-1 City : Linz, Immigration : 13 .
-2 City : Klagenfurt, Immigration : 13 .
-3 What is the immigration in Klagenfurt?	13	2
-1 City : Wien, Immigration : 13 .
-2 City : Salzburg, Immigration : 10 .
-3 What is the immigration in Wien?	13	1
-1 City : Wien, Immigration : 17 .
-2 City : Salzburg, Immigration : 16 .
-3 What is the immigration in Salzburg?	16	2
-1 City : Feldkirch, Immigration : 18 .
-2 City : Linz, Immigration : 19 .
-3 What is the immigration in Linz?	19	2
-1 City : Bludenz, Immigration : 19 .
-2 City : Salzburg, Immigration : 13 .
-3 What is the immigration in Bludenz?	19	1
-1 City : Feldkirch, Immigration : 19 .
-2 City : Wien, Immigration : 10 .
-3 What is the immigration in Feldkirch?	19	1
-1 City : Feldkirch, Immigration : 14 .
-2 City : Linz, Immigration : 14 .
-3 What is the immigration in Linz?	14	2
-1 City : Klagenfurt, Immigration : 15 .
-2 City : Wien, Immigration : 17 .
-3 What is the immigration in Wien?	17	2
-1 City : Klagenfurt, Immigration : 19 .
-2 City : Feldkirch, Immigration : 13 .
-3 What is the immigration in Feldkirch?	13	2
-1 City : Salzburg, Immigration : 16 .
-2 City : Klagenfurt, Immigration : 19 .
-3 What is the immigration in Salzburg?	16	1
-1 City : Wien, Immigration : 11 .
-2 City : Villach, Immigration : 13 .
-3 What is the immigration in Villach?	13	2
-1 City : Villach, Immigration : 16 .
-2 City : Wien, Immigration : 15 .
-3 What is the immigration in Villach?	16	1
-1 City : Salzburg, Immigration : 15 .
-2 City : Linz, Immigration : 17 .
-3 What is the immigration in Linz?	17	2
-1 City : Villach, Immigration : 17 .
-2 City : Linz, Immigration : 13 .
-3 What is the immigration in Linz?	13	2
-1 City : Villach, Immigration : 11 .
-2 City : Graz, Immigration : 16 .
-3 What is the immigration in Villach?	11	1
-1 City : Klagenfurt, Immigration : 18 .
-2 City : Feldkirch, Immigration : 18 .
-3 What is the immigration in Feldkirch?	18	2
-1 City : Villach, Immigration : 15 .
-2 City : Bludenz, Immigration : 10 .
-3 What is the immigration in Villach?	15	1
-1 City : Linz, Immigration : 13 .
-2 City : Wien, Immigration : 19 .
-3 What is the immigration in Wien?	19	2
-1 City : Salzburg, Immigration : 14 .
-2 City : Linz, Immigration : 14 .
-3 What is the immigration in Salzburg?	14	1
-1 City : Villach, Immigration : 15 .
-2 City : Graz, Immigration : 16 .
-3 What is the immigration in Graz?	16	2
-1 City : Salzburg, Immigration : 12 .
-2 City : Klagenfurt, Immigration : 18 .
-3 What is the immigration in Klagenfurt?	18	2
-1 City : Klagenfurt, Immigration : 16 .
-2 City : Graz, Immigration : 15 .
-3 What is the immigration in Graz?	15	2
-1 City : Klagenfurt, Immigration : 10 .
-2 City : Bludenz, Immigration : 17 .
-3 What is the immigration in Klagenfurt?	10	1
-1 City : Wien, Immigration : 18 .
-2 City : Salzburg, Immigration : 11 .
-3 What is the immigration in Wien?	18	1
-1 City : Wien, Immigration : 14 .
-2 City : Linz, Immigration : 19 .
-3 What is the immigration in Linz?	19	2
-1 City : Graz, Immigration : 17 .
-2 City : Bludenz, Immigration : 14 .
-3 What is the immigration in Bludenz?	14	2
-1 City : Klagenfurt, Immigration : 14 .
-2 City : Villach, Immigration : 19 .
-3 What is the immigration in Villach?	19	2
-1 City : Bludenz, Immigration : 15 .
-2 City : Klagenfurt, Immigration : 18 .
-3 What is the immigration in Bludenz?	15	1
-1 City : Klagenfurt, Immigration : 16 .
-2 City : Feldkirch, Immigration : 14 .
-3 What is the immigration in Feldkirch?	14	2
-1 City : Bludenz, Immigration : 14 .
-2 City : Villach, Immigration : 13 .
-3 What is the immigration in Villach?	13	2
-1 City : Villach, Immigration : 14 .
-2 City : Bludenz, Immigration : 14 .
-3 What is the immigration in Villach?	14	1
-1 City : Linz, Immigration : 18 .
-2 City : Wien, Immigration : 10 .
-3 What is the immigration in Linz?	18	1
-1 City : Feldkirch, Immigration : 16 .
-2 City : Linz, Immigration : 13 .
-3 What is the immigration in Feldkirch?	16	1
-1 City : Villach, Immigration : 11 .
-2 City : Klagenfurt, Immigration : 15 .
-3 What is the immigration in Klagenfurt?	15	2
-1 City : Salzburg, Immigration : 16 .
-2 City : Bludenz, Immigration : 18 .
-3 What is the immigration in Salzburg?	16	1
-1 City : Graz, Immigration : 16 .
-2 City : Salzburg, Immigration : 19 .
-3 What is the immigration in Salzburg?	19	2
-1 City : Salzburg, Immigration : 19 .
-2 City : Feldkirch, Immigration : 14 .
-3 What is the immigration in Salzburg?	19	1
-1 City : Klagenfurt, Immigration : 16 .
-2 City : Villach, Immigration : 16 .
-3 What is the immigration in Klagenfurt?	16	1
-1 City : Feldkirch, Immigration : 14 .
-2 City : Villach, Immigration : 12 .
-3 What is the immigration in Feldkirch?	14	1
-1 City : Salzburg, Immigration : 15 .
-2 City : Graz, Immigration : 18 .
-3 What is the immigration in Graz?	18	2
-1 City : Graz, Immigration : 12 .
-2 City : Klagenfurt, Immigration : 10 .
-3 What is the immigration in Graz?	12	1
-1 City : Salzburg, Immigration : 18 .
-2 City : Villach, Immigration : 17 .
-3 What is the immigration in Salzburg?	18	1
-1 City : Bludenz, Immigration : 19 .
-2 City : Villach, Immigration : 15 .
-3 What is the immigration in Bludenz?	19	1
-1 City : Bludenz, Immigration : 15 .
-2 City : Feldkirch, Immigration : 11 .
-3 What is the immigration in Feldkirch?	11	2
-1 City : Linz, Immigration : 10 .
-2 City : Bludenz, Immigration : 17 .
-3 What is the immigration in Bludenz?	17	2
-1 City : Graz, Immigration : 15 .
-2 City : Klagenfurt, Immigration : 14 .
-3 What is the immigration in Klagenfurt?	14	2
-1 City : Salzburg, Immigration : 13 .
-2 City : Klagenfurt, Immigration : 16 .
-3 What is the immigration in Klagenfurt?	16	2
-1 City : Feldkirch, Immigration : 11 .
-2 City : Bludenz, Immigration : 12 .
-3 What is the immigration in Bludenz?	12	2
-1 City : Graz, Immigration : 15 .
-2 City : Klagenfurt, Immigration : 10 .
-3 What is the immigration in Graz?	15	1
-1 City : Salzburg, Immigration : 11 .
-2 City : Graz, Immigration : 14 .
-3 What is the immigration in Graz?	14	2
-1 City : Wien, Immigration : 18 .
-2 City : Salzburg, Immigration : 12 .
-3 What is the immigration in Wien?	18	1
-1 City : Villach, Immigration : 15 .
-2 City : Klagenfurt, Immigration : 19 .
-3 What is the immigration in Klagenfurt?	19	2
-1 City : Linz, Immigration : 12 .
-2 City : Villach, Immigration : 13 .
-3 What is the immigration in Linz?	12	1
-1 City : Graz, Immigration : 18 .
-2 City : Bludenz, Immigration : 11 .
-3 What is the immigration in Bludenz?	11	2
-1 City : Wien, Immigration : 14 .
-2 City : Feldkirch, Immigration : 12 .
-3 What is the immigration in Wien?	14	1
-1 City : Salzburg, Immigration : 12 .
-2 City : Linz, Immigration : 12 .
-3 What is the immigration in Salzburg?	12	1
-1 City : Salzburg, Immigration : 13 .
-2 City : Wien, Immigration : 16 .
-3 What is the immigration in Wien?	16	2
-1 City : Villach, Immigration : 11 .
-2 City : Klagenfurt, Immigration : 19 .
-3 What is the immigration in Villach?	11	1
-1 City : Bludenz, Immigration : 12 .
-2 City : Graz, Immigration : 16 .
-3 What is the immigration in Graz?	16	2
-1 City : Bludenz, Immigration : 10 .
-2 City : Graz, Immigration : 15 .
-3 What is the immigration in Bludenz?	10	1
-1 City : Graz, Immigration : 16 .
-2 City : Wien, Immigration : 10 .
-3 What is the immigration in Graz?	16	1
-1 City : Bludenz, Immigration : 14 .
-2 City : Feldkirch, Immigration : 12 .
-3 What is the immigration in Feldkirch?	12	2
-1 City : Graz, Immigration : 19 .
-2 City : Feldkirch, Immigration : 14 .
-3 What is the immigration in Graz?	19	1
-1 City : Bludenz, Immigration : 12 .
-2 City : Wien, Immigration : 18 .
-3 What is the immigration in Wien?	18	2
-1 City : Salzburg, Immigration : 15 .
-2 City : Villach, Immigration : 10 .
-3 What is the immigration in Villach?	10	2
-1 City : Feldkirch, Immigration : 14 .
-2 City : Klagenfurt, Immigration : 11 .
-3 What is the immigration in Klagenfurt?	11	2
-1 City : Klagenfurt, Immigration : 13 .
-2 City : Graz, Immigration : 11 .
-3 What is the immigration in Klagenfurt?	13	1
-1 City : Bludenz, Immigration : 18 .
-2 City : Wien, Immigration : 16 .
-3 What is the immigration in Bludenz?	18	1
-1 City : Feldkirch, Immigration : 16 .
-2 City : Villach, Immigration : 15 .
-3 What is the immigration in Villach?	15	2
-1 City : Wien, Immigration : 10 .
-2 City : Linz, Immigration : 10 .
-3 What is the immigration in Linz?	10	2
-1 City : Villach, Immigration : 18 .
-2 City : Wien, Immigration : 13 .
-3 What is the immigration in Wien?	13	2
-1 City : Wien, Immigration : 16 .
-2 City : Feldkirch, Immigration : 10 .
-3 What is the immigration in Feldkirch?	10	2
-1 City : Villach, Immigration : 10 .
-2 City : Linz, Immigration : 16 .
-3 What is the immigration in Linz?	16	2
-1 City : Salzburg, Immigration : 11 .
-2 City : Wien, Immigration : 13 .
-3 What is the immigration in Wien?	13	2
-1 City : Salzburg, Immigration : 10 .
-2 City : Wien, Immigration : 14 .
-3 What is the immigration in Salzburg?	10	1
-1 City : Feldkirch, Immigration : 16 .
-2 City : Linz, Immigration : 13 .
-3 What is the immigration in Linz?	13	2
-1 City : Feldkirch, Immigration : 12 .
-2 City : Linz, Immigration : 14 .
-3 What is the immigration in Feldkirch?	12	1
-1 City : Linz, Immigration : 14 .
-2 City : Bludenz, Immigration : 16 .
-3 What is the immigration in Linz?	14	1
-1 City : Villach, Immigration : 10 .
-2 City : Feldkirch, Immigration : 12 .
-3 What is the immigration in Villach?	10	1
-1 City : Bludenz, Immigration : 14 .
-2 City : Wien, Immigration : 19 .
-3 What is the immigration in Bludenz?	14	1
-1 City : Wien, Immigration : 18 .
-2 City : Bludenz, Immigration : 14 .
-3 What is the immigration in Wien?	18	1
-1 City : Graz, Immigration : 14 .
-2 City : Villach, Immigration : 17 .
-3 What is the immigration in Graz?	14	1
-1 City : Villach, Immigration : 19 .
-2 City : Bludenz, Immigration : 13 .
-3 What is the immigration in Bludenz?	13	2
-1 City : Salzburg, Immigration : 13 .
-2 City : Villach, Immigration : 17 .
-3 What is the immigration in Villach?	17	2
-1 City : Wien, Immigration : 15 .
-2 City : Salzburg, Immigration : 17 .
-3 What is the immigration in Wien?	15	1
-1 City : Klagenfurt, Immigration : 12 .
-2 City : Villach, Immigration : 19 .
-3 What is the immigration in Villach?	19	2
-1 City : Wien, Immigration : 10 .
-2 City : Klagenfurt, Immigration : 12 .
-3 What is the immigration in Wien?	10	1
-1 City : Salzburg, Immigration : 13 .
-2 City : Villach, Immigration : 17 .
-3 What is the immigration in Salzburg?	13	1
-1 City : Salzburg, Immigration : 12 .
-2 City : Wien, Immigration : 15 .
-3 What is the immigration in Salzburg?	12	1
-1 City : Bludenz, Immigration : 14 .
-2 City : Feldkirch, Immigration : 19 .
-3 What is the immigration in Feldkirch?	19	2
-1 City : Villach, Immigration : 17 .
-2 City : Salzburg, Immigration : 16 .
-3 What is the immigration in Villach?	17	1
-1 City : Bludenz, Immigration : 18 .
-2 City : Linz, Immigration : 18 .
-3 What is the immigration in Bludenz?	18	1
-1 City : Klagenfurt, Immigration : 19 .
-2 City : Salzburg, Immigration : 17 .
-3 What is the immigration in Salzburg?	17	2
-1 City : Linz, Immigration : 16 .
-2 City : Klagenfurt, Immigration : 11 .
-3 What is the immigration in Linz?	16	1
-1 City : Villach, Immigration : 13 .
-2 City : Salzburg, Immigration : 12 .
-3 What is the immigration in Villach?	13	1
-1 City : Feldkirch, Immigration : 15 .
-2 City : Villach, Immigration : 11 .
-3 What is the immigration in Feldkirch?	15	1
-1 City : Salzburg, Immigration : 14 .
-2 City : Bludenz, Immigration : 19 .
-3 What is the immigration in Salzburg?	14	1
-1 City : Linz, Immigration : 16 .
-2 City : Villach, Immigration : 19 .
-3 What is the immigration in Linz?	16	1
-1 City : Linz, Immigration : 12 .
-2 City : Wien, Immigration : 12 .
-3 What is the immigration in Linz?	12	1
-1 City : Villach, Immigration : 15 .
-2 City : Linz, Immigration : 10 .
-3 What is the immigration in Linz?	10	2
-1 City : Graz, Immigration : 16 .
-2 City : Salzburg, Immigration : 11 .
-3 What is the immigration in Graz?	16	1
-1 City : Villach, Immigration : 19 .
-2 City : Klagenfurt, Immigration : 16 .
-3 What is the immigration in Villach?	19	1
-1 City : Bludenz, Immigration : 14 .
-2 City : Graz, Immigration : 10 .
-3 What is the immigration in Bludenz?	14	1
-1 City : Feldkirch, Immigration : 11 .
-2 City : Salzburg, Immigration : 15 .
-3 What is the immigration in Feldkirch?	11	1
-1 City : Graz, Immigration : 11 .
-2 City : Salzburg, Immigration : 11 .
-3 What is the immigration in Salzburg?	11	2
-1 City : Villach, Immigration : 12 .
-2 City : Salzburg, Immigration : 15 .
-3 What is the immigration in Salzburg?	15	2
-1 City : Graz, Immigration : 13 .
-2 City : Klagenfurt, Immigration : 17 .
-3 What is the immigration in Klagenfurt?	17	2
-1 City : Linz, Immigration : 16 .
-2 City : Wien, Immigration : 16 .
-3 What is the immigration in Wien?	16	2
-1 City : Klagenfurt, Immigration : 18 .
-2 City : Wien, Immigration : 19 .
-3 What is the immigration in Klagenfurt?	18	1
-1 City : Graz, Immigration : 13 .
-2 City : Wien, Immigration : 18 .
-3 What is the immigration in Graz?	13	1
-1 City : Salzburg, Immigration : 12 .
-2 City : Klagenfurt, Immigration : 11 .
-3 What is the immigration in Klagenfurt?	11	2
-1 City : Villach, Immigration : 18 .
-2 City : Feldkirch, Immigration : 16 .
-3 What is the immigration in Feldkirch?	16	2
-1 City : Salzburg, Immigration : 15 .
-2 City : Linz, Immigration : 12 .
-3 What is the immigration in Linz?	12	2
-1 City : Feldkirch, Immigration : 15 .
-2 City : Salzburg, Immigration : 13 .
-3 What is the immigration in Salzburg?	13	2
-1 City : Linz, Immigration : 15 .
-2 City : Bludenz, Immigration : 17 .
-3 What is the immigration in Linz?	15	1
-1 City : Klagenfurt, Immigration : 11 .
-2 City : Feldkirch, Immigration : 14 .
-3 What is the immigration in Klagenfurt?	11	1
-1 City : Feldkirch, Immigration : 19 .
-2 City : Wien, Immigration : 12 .
-3 What is the immigration in Feldkirch?	19	1
-1 City : Klagenfurt, Immigration : 10 .
-2 City : Wien, Immigration : 15 .
-3 What is the immigration in Wien?	15	2
-1 City : Feldkirch, Immigration : 18 .
-2 City : Wien, Immigration : 18 .
-3 What is the immigration in Feldkirch?	18	1
-1 City : Salzburg, Immigration : 18 .
-2 City : Bludenz, Immigration : 18 .
-3 What is the immigration in Bludenz?	18	2
-1 City : Klagenfurt, Immigration : 19 .
-2 City : Linz, Immigration : 18 .
-3 What is the immigration in Klagenfurt?	19	1
-1 City : Feldkirch, Immigration : 19 .
-2 City : Salzburg, Immigration : 13 .
-3 What is the immigration in Salzburg?	13	2
-1 City : Feldkirch, Immigration : 18 .
-2 City : Villach, Immigration : 17 .
-3 What is the immigration in Feldkirch?	18	1
-1 City : Linz, Immigration : 11 .
-2 City : Wien, Immigration : 17 .
-3 What is the immigration in Linz?	11	1
-1 City : Salzburg, Immigration : 16 .
-2 City : Linz, Immigration : 14 .
-3 What is the immigration in Salzburg?	16	1
-1 City : Feldkirch, Immigration : 14 .
-2 City : Graz, Immigration : 11 .
-3 What is the immigration in Graz?	11	2
-1 City : Graz, Immigration : 10 .
-2 City : Villach, Immigration : 10 .
-3 What is the immigration in Villach?	10	2
-1 City : Villach, Immigration : 19 .
-2 City : Feldkirch, Immigration : 18 .
-3 What is the immigration in Villach?	19	1
-1 City : Feldkirch, Immigration : 14 .
-2 City : Graz, Immigration : 10 .
-3 What is the immigration in Feldkirch?	14	1
-1 City : Feldkirch, Immigration : 14 .
-2 City : Linz, Immigration : 14 .
-3 What is the immigration in Feldkirch?	14	1
-1 City : Klagenfurt, Immigration : 17 .
-2 City : Wien, Immigration : 17 .
-3 What is the immigration in Wien?	17	2
-1 City : Klagenfurt, Immigration : 14 .
-2 City : Graz, Immigration : 18 .
-3 What is the immigration in Klagenfurt?	14	1
-1 City : Wien, Immigration : 10 .
-2 City : Villach, Immigration : 12 .
-3 What is the immigration in Villach?	12	2
-1 City : Villach, Immigration : 12 .
-2 City : Bludenz, Immigration : 11 .
-3 What is the immigration in Bludenz?	11	2
-1 City : Klagenfurt, Immigration : 18 .
-2 City : Linz, Immigration : 12 .
-3 What is the immigration in Linz?	12	2
-1 City : Linz, Immigration : 17 .
-2 City : Villach, Immigration : 12 .
-3 What is the immigration in Linz?	17	1
-1 City : Klagenfurt, Immigration : 13 .
-2 City : Bludenz, Immigration : 19 .
-3 What is the immigration in Klagenfurt?	13	1
-1 City : Klagenfurt, Immigration : 13 .
-2 City : Wien, Immigration : 14 .
-3 What is the immigration in Wien?	14	2
-1 City : Wien, Immigration : 11 .
-2 City : Linz, Immigration : 11 .
-3 What is the immigration in Wien?	11	1
-1 City : Salzburg, Immigration : 19 .
-2 City : Klagenfurt, Immigration : 19 .
-3 What is the immigration in Salzburg?	19	1
-1 City : Villach, Immigration : 15 .
-2 City : Feldkirch, Immigration : 11 .
-3 What is the immigration in Feldkirch?	11	2
-1 City : Klagenfurt, Immigration : 13 .
-2 City : Feldkirch, Immigration : 18 .
-3 What is the immigration in Feldkirch?	18	2
-1 City : Klagenfurt, Immigration : 18 .
-2 City : Bludenz, Immigration : 13 .
-3 What is the immigration in Bludenz?	13	2
-1 City : Villach, Immigration : 15 .
-2 City : Bludenz, Immigration : 15 .
-3 What is the immigration in Bludenz?	15	2
-1 City : Graz, Immigration : 18 .
-2 City : Salzburg, Immigration : 10 .
-3 What is the immigration in Salzburg?	10	2
-1 City : Salzburg, Immigration : 18 .
-2 City : Bludenz, Immigration : 16 .
-3 What is the immigration in Bludenz?	16	2
-1 City : Klagenfurt, Immigration : 10 .
-2 City : Feldkirch, Immigration : 15 .
-3 What is the immigration in Feldkirch?	15	2
-1 City : Graz, Immigration : 14 .
-2 City : Wien, Immigration : 19 .
-3 What is the immigration in Graz?	14	1
-1 City : Feldkirch, Immigration : 11 .
-2 City : Graz, Immigration : 17 .
-3 What is the immigration in Graz?	17	2
-1 City : Klagenfurt, Immigration : 17 .
-2 City : Bludenz, Immigration : 14 .
-3 What is the immigration in Klagenfurt?	17	1
-1 City : Bludenz, Immigration : 11 .
-2 City : Feldkirch, Immigration : 10 .
-3 What is the immigration in Bludenz?	11	1
-1 City : Wien, Immigration : 14 .
-2 City : Salzburg, Immigration : 13 .
-3 What is the immigration in Wien?	14	1
-1 City : Bludenz, Immigration : 12 .
-2 City : Klagenfurt, Immigration : 19 .
-3 What is the immigration in Klagenfurt?	19	2
-1 City : Salzburg, Immigration : 16 .
-2 City : Klagenfurt, Immigration : 19 .
-3 What is the immigration in Salzburg?	16	1
-1 City : Salzburg, Immigration : 17 .
-2 City : Wien, Immigration : 16 .
-3 What is the immigration in Wien?	16	2
-1 City : Salzburg, Immigration : 10 .
-2 City : Villach, Immigration : 18 .
-3 What is the immigration in Villach?	18	2
-1 City : Wien, Immigration : 12 .
-2 City : Linz, Immigration : 12 .
-3 What is the immigration in Wien?	12	1
-1 City : Linz, Immigration : 10 .
-2 City : Graz, Immigration : 13 .
-3 What is the immigration in Linz?	10	1
-1 City : Linz, Immigration : 17 .
-2 City : Bludenz, Immigration : 15 .
-3 What is the immigration in Linz?	17	1
-1 City : Graz, Immigration : 19 .
-2 City : Feldkirch, Immigration : 14 .
-3 What is the immigration in Feldkirch?	14	2
-1 City : Graz, Immigration : 16 .
-2 City : Wien, Immigration : 19 .
-3 What is the immigration in Wien?	19	2
-1 City : Salzburg, Immigration : 17 .
-2 City : Wien, Immigration : 16 .
-3 What is the immigration in Wien?	16	2
-1 City : Wien, Immigration : 11 .
-2 City : Villach, Immigration : 10 .
-3 What is the immigration in Wien?	11	1
-1 City : Graz, Immigration : 18 .
-2 City : Salzburg, Immigration : 11 .
-3 What is the immigration in Graz?	18	1
-1 City : Wien, Immigration : 16 .
-2 City : Bludenz, Immigration : 18 .
-3 What is the immigration in Bludenz?	18	2
-1 City : Linz, Immigration : 12 .
-2 City : Klagenfurt, Immigration : 14 .
-3 What is the immigration in Klagenfurt?	14	2
-1 City : Linz, Immigration : 16 .
-2 City : Klagenfurt, Immigration : 18 .
-3 What is the immigration in Klagenfurt?	18	2
-1 City : Wien, Immigration : 17 .
-2 City : Salzburg, Immigration : 17 .
-3 What is the immigration in Salzburg?	17	2
-1 City : Feldkirch, Immigration : 10 .
-2 City : Villach, Immigration : 16 .
-3 What is the immigration in Villach?	16	2
-1 City : Graz, Immigration : 17 .
-2 City : Wien, Immigration : 15 .
-3 What is the immigration in Graz?	17	1
-1 City : Bludenz, Immigration : 17 .
-2 City : Graz, Immigration : 13 .
-3 What is the immigration in Bludenz?	17	1
-1 City : Wien, Immigration : 17 .
-2 City : Klagenfurt, Immigration : 12 .
-3 What is the immigration in Wien?	17	1
-1 City : Feldkirch, Immigration : 16 .
-2 City : Bludenz, Immigration : 10 .
-3 What is the immigration in Feldkirch?	16	1
-1 City : Klagenfurt, Immigration : 12 .
-2 City : Villach, Immigration : 16 .
-3 What is the immigration in Villach?	16	2
-1 City : Wien, Immigration : 10 .
-2 City : Salzburg, Immigration : 19 .
-3 What is the immigration in Salzburg?	19	2
-1 City : Wien, Immigration : 10 .
-2 City : Klagenfurt, Immigration : 17 .
-3 What is the immigration in Klagenfurt?	17	2
-1 City : Villach, Immigration : 14 .
-2 City : Wien, Immigration : 15 .
-3 What is the immigration in Wien?	15	2
-1 City : Feldkirch, Immigration : 11 .
-2 City : Bludenz, Immigration : 11 .
-3 What is the immigration in Bludenz?	11	2
-1 City : Feldkirch, Immigration : 17 .
-2 City : Salzburg, Immigration : 15 .
-3 What is the immigration in Feldkirch?	17	1
-1 City : Graz, Immigration : 15 .
-2 City : Bludenz, Immigration : 13 .
-3 What is the immigration in Bludenz?	13	2
-1 City : Salzburg, Immigration : 12 .
-2 City : Wien, Immigration : 15 .
-3 What is the immigration in Salzburg?	12	1
-1 City : Bludenz, Immigration : 11 .
-2 City : Graz, Immigration : 17 .
-3 What is the immigration in Graz?	17	2
-1 City : Bludenz, Immigration : 12 .
-2 City : Wien, Immigration : 11 .
-3 What is the immigration in Wien?	11	2
-1 City : Bludenz, Immigration : 18 .
-2 City : Wien, Immigration : 18 .
-3 What is the immigration in Wien?	18	2
-1 City : Klagenfurt, Immigration : 12 .
-2 City : Wien, Immigration : 10 .
-3 What is the immigration in Klagenfurt?	12	1
-1 City : Wien, Immigration : 16 .
-2 City : Klagenfurt, Immigration : 19 .
-3 What is the immigration in Klagenfurt?	19	2
-1 City : Linz, Immigration : 17 .
-2 City : Bludenz, Immigration : 18 .
-3 What is the immigration in Bludenz?	18	2
-1 City : Klagenfurt, Immigration : 14 .
-2 City : Graz, Immigration : 11 .
-3 What is the immigration in Graz?	11	2
-1 City : Salzburg, Immigration : 16 .
-2 City : Wien, Immigration : 12 .
-3 What is the immigration in Wien?	12	2
-1 City : Salzburg, Immigration : 15 .
-2 City : Linz, Immigration : 18 .
-3 What is the immigration in Linz?	18	2
-1 City : Salzburg, Immigration : 17 .
-2 City : Klagenfurt, Immigration : 14 .
-3 What is the immigration in Klagenfurt?	14	2
-1 City : Bludenz, Immigration : 17 .
-2 City : Graz, Immigration : 11 .
-3 What is the immigration in Bludenz?	17	1
-1 City : Graz, Immigration : 11 .
-2 City : Salzburg, Immigration : 15 .
-3 What is the immigration in Salzburg?	15	2
-1 City : Salzburg, Immigration : 14 .
-2 City : Bludenz, Immigration : 16 .
-3 What is the immigration in Salzburg?	14	1
-1 City : Wien, Immigration : 14 .
-2 City : Bludenz, Immigration : 12 .
-3 What is the immigration in Wien?	14	1
-1 City : Bludenz, Immigration : 14 .
-2 City : Wien, Immigration : 11 .
-3 What is the immigration in Bludenz?	14	1
-1 City : Bludenz, Immigration : 18 .
-2 City : Wien, Immigration : 19 .
-3 What is the immigration in Wien?	19	2
-1 City : Wien, Immigration : 12 .
-2 City : Salzburg, Immigration : 16 .
-3 What is the immigration in Wien?	12	1
-1 City : Villach, Immigration : 10 .
-2 City : Bludenz, Immigration : 13 .
-3 What is the immigration in Villach?	10	1
-1 City : Wien, Immigration : 14 .
-2 City : Salzburg, Immigration : 10 .
-3 What is the immigration in Salzburg?	10	2
-1 City : Villach, Immigration : 16 .
-2 City : Linz, Immigration : 13 .
-3 What is the immigration in Villach?	16	1
-1 City : Graz, Immigration : 14 .
-2 City : Feldkirch, Immigration : 10 .
-3 What is the immigration in Feldkirch?	10	2
-1 City : Salzburg, Immigration : 17 .
-2 City : Linz, Immigration : 11 .
-3 What is the immigration in Salzburg?	17	1
-1 City : Villach, Immigration : 15 .
-2 City : Klagenfurt, Immigration : 10 .
-3 What is the immigration in Villach?	15	1
-1 City : Graz, Immigration : 13 .
-2 City : Bludenz, Immigration : 18 .
-3 What is the immigration in Bludenz?	18	2
-1 City : Wien, Immigration : 12 .
-2 City : Salzburg, Immigration : 13 .
-3 What is the immigration in Salzburg?	13	2
-1 City : Wien, Immigration : 10 .
-2 City : Salzburg, Immigration : 15 .
-3 What is the immigration in Salzburg?	15	2
-1 City : Villach, Immigration : 15 .
-2 City : Graz, Immigration : 15 .
-3 What is the immigration in Graz?	15	2
-1 City : Linz, Immigration : 11 .
-2 City : Graz, Immigration : 10 .
-3 What is the immigration in Graz?	10	2
-1 City : Feldkirch, Immigration : 14 .
-2 City : Wien, Immigration : 15 .
-3 What is the immigration in Wien?	15	2
-1 City : Bludenz, Immigration : 15 .
-2 City : Wien, Immigration : 15 .
-3 What is the immigration in Bludenz?	15	1
-1 City : Klagenfurt, Immigration : 11 .
-2 City : Bludenz, Immigration : 15 .
-3 What is the immigration in Bludenz?	15	2
-1 City : Feldkirch, Immigration : 19 .
-2 City : Wien, Immigration : 13 .
-3 What is the immigration in Wien?	13	2
-1 City : Graz, Immigration : 11 .
-2 City : Wien, Immigration : 17 .
-3 What is the immigration in Graz?	11	1
-1 City : Feldkirch, Immigration : 10 .
-2 City : Salzburg, Immigration : 10 .
-3 What is the immigration in Salzburg?	10	2
-1 City : Linz, Immigration : 17 .
-2 City : Bludenz, Immigration : 17 .
-3 What is the immigration in Bludenz?	17	2
-1 City : Linz, Immigration : 17 .
-2 City : Graz, Immigration : 18 .
-3 What is the immigration in Linz?	17	1
-1 City : Graz, Immigration : 11 .
-2 City : Klagenfurt, Immigration : 11 .
-3 What is the immigration in Klagenfurt?	11	2
-1 City : Bludenz, Immigration : 15 .
-2 City : Salzburg, Immigration : 12 .
-3 What is the immigration in Bludenz?	15	1
-1 City : Bludenz, Immigration : 18 .
-2 City : Feldkirch, Immigration : 16 .
-3 What is the immigration in Bludenz?	18	1
-1 City : Linz, Immigration : 11 .
-2 City : Klagenfurt, Immigration : 18 .
-3 What is the immigration in Klagenfurt?	18	2
-1 City : Bludenz, Immigration : 10 .
-2 City : Villach, Immigration : 14 .
-3 What is the immigration in Bludenz?	10	1
-1 City : Villach, Immigration : 14 .
-2 City : Feldkirch, Immigration : 13 .
-3 What is the immigration in Feldkirch?	13	2
-1 City : Klagenfurt, Immigration : 10 .
-2 City : Linz, Immigration : 17 .
-3 What is the immigration in Linz?	17	2
-1 City : Salzburg, Immigration : 13 .
-2 City : Villach, Immigration : 15 .
-3 What is the immigration in Villach?	15	2
-1 City : Klagenfurt, Immigration : 11 .
-2 City : Wien, Immigration : 19 .
-3 What is the immigration in Wien?	19	2
-1 City : Graz, Immigration : 18 .
-2 City : Salzburg, Immigration : 10 .
-3 What is the immigration in Salzburg?	10	2
-1 City : Linz, Immigration : 14 .
-2 City : Graz, Immigration : 18 .
-3 What is the immigration in Graz?	18	2
-1 City : Feldkirch, Immigration : 11 .
-2 City : Graz, Immigration : 11 .
-3 What is the immigration in Feldkirch?	11	1
-1 City : Salzburg, Immigration : 11 .
-2 City : Feldkirch, Immigration : 15 .
-3 What is the immigration in Salzburg?	11	1
-1 City : Klagenfurt, Immigration : 13 .
-2 City : Graz, Immigration : 14 .
-3 What is the immigration in Graz?	14	2
-1 City : Villach, Immigration : 12 .
-2 City : Klagenfurt, Immigration : 15 .
-3 What is the immigration in Villach?	12	1
-1 City : Graz, Immigration : 18 .
-2 City : Feldkirch, Immigration : 16 .
-3 What is the immigration in Graz?	18	1
-1 City : Klagenfurt, Immigration : 12 .
-2 City : Linz, Immigration : 14 .
-3 What is the immigration in Linz?	14	2
-1 City : Wien, Immigration : 18 .
-2 City : Klagenfurt, Immigration : 17 .
-3 What is the immigration in Klagenfurt?	17	2
-1 City : Villach, Immigration : 13 .
-2 City : Wien, Immigration : 14 .
-3 What is the immigration in Villach?	13	1
-1 City : Wien, Immigration : 19 .
-2 City : Graz, Immigration : 11 .
-3 What is the immigration in Wien?	19	1
-1 City : Salzburg, Immigration : 19 .
-2 City : Linz, Immigration : 18 .
-3 What is the immigration in Linz?	18	2
-1 City : Linz, Immigration : 10 .
-2 City : Graz, Immigration : 11 .
-3 What is the immigration in Linz?	10	1
-1 City : Wien, Immigration : 13 .
-2 City : Villach, Immigration : 14 .
-3 What is the immigration in Villach?	14	2
-1 City : Bludenz, Immigration : 17 .
-2 City : Linz, Immigration : 13 .
-3 What is the immigration in Linz?	13	2
-1 City : Klagenfurt, Immigration : 12 .
-2 City : Graz, Immigration : 16 .
-3 What is the immigration in Klagenfurt?	12	1
-1 City : Graz, Immigration : 19 .
-2 City : Linz, Immigration : 18 .
-3 What is the immigration in Graz?	19	1
-1 City : Klagenfurt, Immigration : 16 .
-2 City : Wien, Immigration : 14 .
-3 What is the immigration in Klagenfurt?	16	1
-1 City : Villach, Immigration : 14 .
-2 City : Salzburg, Immigration : 19 .
-3 What is the immigration in Salzburg?	19	2
-1 City : Wien, Immigration : 15 .
-2 City : Salzburg, Immigration : 15 .
-3 What is the immigration in Salzburg?	15	2
-1 City : Feldkirch, Immigration : 13 .
-2 City : Bludenz, Immigration : 17 .
-3 What is the immigration in Bludenz?	17	2
-1 City : Bludenz, Immigration : 14 .
-2 City : Feldkirch, Immigration : 18 .
-3 What is the immigration in Feldkirch?	18	2
-1 City : Bludenz, Immigration : 14 .
-2 City : Salzburg, Immigration : 17 .
-3 What is the immigration in Salzburg?	17	2
-1 City : Bludenz, Immigration : 13 .
-2 City : Villach, Immigration : 19 .
-3 What is the immigration in Villach?	19	2
-1 City : Salzburg, Immigration : 11 .
-2 City : Villach, Immigration : 10 .
-3 What is the immigration in Salzburg?	11	1
-1 City : Wien, Immigration : 16 .
-2 City : Salzburg, Immigration : 15 .
-3 What is the immigration in Wien?	16	1
-1 City : Salzburg, Immigration : 16 .
-2 City : Bludenz, Immigration : 11 .
-3 What is the immigration in Salzburg?	16	1
-1 City : Bludenz, Immigration : 10 .
-2 City : Feldkirch, Immigration : 14 .
-3 What is the immigration in Feldkirch?	14	2
-1 City : Villach, Immigration : 11 .
-2 City : Linz, Immigration : 18 .
-3 What is the immigration in Linz?	18	2
-1 City : Klagenfurt, Immigration : 17 .
-2 City : Bludenz, Immigration : 10 .
-3 What is the immigration in Bludenz?	10	2
-1 City : Feldkirch, Immigration : 16 .
-2 City : Graz, Immigration : 13 .
-3 What is the immigration in Feldkirch?	16	1
-1 City : Villach, Immigration : 14 .
-2 City : Feldkirch, Immigration : 16 .
-3 What is the immigration in Feldkirch?	16	2
-1 City : Klagenfurt, Immigration : 19 .
-2 City : Salzburg, Immigration : 19 .
-3 What is the immigration in Salzburg?	19	2
-1 City : Graz, Immigration : 18 .
-2 City : Wien, Immigration : 18 .
-3 What is the immigration in Wien?	18	2
-1 City : Linz, Immigration : 19 .
-2 City : Wien, Immigration : 18 .
-3 What is the immigration in Wien?	18	2
-1 City : Linz, Immigration : 18 .
-2 City : Klagenfurt, Immigration : 13 .
-3 What is the immigration in Linz?	18	1
-1 City : Klagenfurt, Immigration : 11 .
-2 City : Villach, Immigration : 16 .
-3 What is the immigration in Klagenfurt?	11	1
-1 City : Graz, Immigration : 13 .
-2 City : Linz, Immigration : 12 .
-3 What is the immigration in Graz?	13	1
-1 City : Bludenz, Immigration : 17 .
-2 City : Feldkirch, Immigration : 13 .
-3 What is the immigration in Feldkirch?	13	2
-1 City : Linz, Immigration : 10 .
-2 City : Feldkirch, Immigration : 16 .
-3 What is the immigration in Feldkirch?	16	2
-1 City : Wien, Immigration : 10 .
-2 City : Villach, Immigration : 15 .
-3 What is the immigration in Villach?	15	2
-1 City : Linz, Immigration : 18 .
-2 City : Klagenfurt, Immigration : 18 .
-3 What is the immigration in Klagenfurt?	18	2
-1 City : Linz, Immigration : 14 .
-2 City : Graz, Immigration : 15 .
-3 What is the immigration in Graz?	15	2
-1 City : Wien, Immigration : 10 .
-2 City : Linz, Immigration : 18 .
-3 What is the immigration in Linz?	18	2
-1 City : Bludenz, Immigration : 16 .
-2 City : Wien, Immigration : 17 .
-3 What is the immigration in Bludenz?	16	1
-1 City : Linz, Immigration : 14 .
-2 City : Klagenfurt, Immigration : 12 .
-3 What is the immigration in Klagenfurt?	12	2
-1 City : Bludenz, Immigration : 10 .
-2 City : Klagenfurt, Immigration : 13 .
-3 What is the immigration in Bludenz?	10	1
-1 City : Linz, Immigration : 13 .
-2 City : Graz, Immigration : 17 .
-3 What is the immigration in Linz?	13	1
-1 City : Klagenfurt, Immigration : 13 .
-2 City : Graz, Immigration : 17 .
-3 What is the immigration in Klagenfurt?	13	1
-1 City : Bludenz, Immigration : 10 .
-2 City : Villach, Immigration : 12 .
-3 What is the immigration in Villach?	12	2
-1 City : Feldkirch, Immigration : 10 .
-2 City : Graz, Immigration : 18 .
-3 What is the immigration in Graz?	18	2
-1 City : Feldkirch, Immigration : 12 .
-2 City : Klagenfurt, Immigration : 18 .
-3 What is the immigration in Klagenfurt?	18	2
-1 City : Bludenz, Immigration : 12 .
-2 City : Feldkirch, Immigration : 17 .
-3 What is the immigration in Feldkirch?	17	2
-1 City : Klagenfurt, Immigration : 17 .
-2 City : Bludenz, Immigration : 12 .
-3 What is the immigration in Bludenz?	12	2
-1 City : Graz, Immigration : 16 .
-2 City : Feldkirch, Immigration : 16 .
-3 What is the immigration in Feldkirch?	16	2
-1 City : Graz, Immigration : 18 .
-2 City : Feldkirch, Immigration : 12 .
-3 What is the immigration in Feldkirch?	12	2
-1 City : Wien, Immigration : 11 .
-2 City : Klagenfurt, Immigration : 12 .
-3 What is the immigration in Klagenfurt?	12	2
-1 City : Villach, Immigration : 14 .
-2 City : Bludenz, Immigration : 11 .
-3 What is the immigration in Bludenz?	11	2
-1 City : Graz, Immigration : 13 .
-2 City : Wien, Immigration : 11 .
-3 What is the immigration in Graz?	13	1
-1 City : Villach, Immigration : 16 .
-2 City : Bludenz, Immigration : 17 .
-3 What is the immigration in Bludenz?	17	2
-1 City : Graz, Immigration : 15 .
-2 City : Salzburg, Immigration : 11 .
-3 What is the immigration in Salzburg?	11	2
-1 City : Bludenz, Immigration : 18 .
-2 City : Feldkirch, Immigration : 17 .
-3 What is the immigration in Feldkirch?	17	2
-1 City : Wien, Immigration : 18 .
-2 City : Feldkirch, Immigration : 15 .
-3 What is the immigration in Wien?	18	1
-1 City : Wien, Immigration : 16 .
-2 City : Graz, Immigration : 12 .
-3 What is the immigration in Wien?	16	1
-1 City : Linz, Immigration : 10 .
-2 City : Feldkirch, Immigration : 10 .
-3 What is the immigration in Feldkirch?	10	2
-1 City : Klagenfurt, Immigration : 12 .
-2 City : Salzburg, Immigration : 19 .
-3 What is the immigration in Klagenfurt?	12	1
-1 City : Graz, Immigration : 12 .
-2 City : Feldkirch, Immigration : 12 .
-3 What is the immigration in Graz?	12	1
-1 City : Feldkirch, Immigration : 18 .
-2 City : Bludenz, Immigration : 11 .
-3 What is the immigration in Bludenz?	11	2
-1 City : Salzburg, Immigration : 14 .
-2 City : Graz, Immigration : 11 .
-3 What is the immigration in Salzburg?	14	1
-1 City : Klagenfurt, Immigration : 18 .
-2 City : Villach, Immigration : 12 .
-3 What is the immigration in Villach?	12	2
-1 City : Feldkirch, Immigration : 10 .
-2 City : Villach, Immigration : 10 .
-3 What is the immigration in Villach?	10	2
-1 City : Bludenz, Immigration : 11 .
-2 City : Wien, Immigration : 11 .
-3 What is the immigration in Bludenz?	11	1
-1 City : Salzburg, Immigration : 19 .
-2 City : Linz, Immigration : 15 .
-3 What is the immigration in Linz?	15	2
-1 City : Graz, Immigration : 17 .
-2 City : Klagenfurt, Immigration : 12 .
-3 What is the immigration in Graz?	17	1
-1 City : Villach, Immigration : 16 .
-2 City : Linz, Immigration : 17 .
-3 What is the immigration in Villach?	16	1
-1 City : Graz, Immigration : 17 .
-2 City : Villach, Immigration : 10 .
-3 What is the immigration in Villach?	10	2
-1 City : Bludenz, Immigration : 13 .
-2 City : Wien, Immigration : 10 .
-3 What is the immigration in Wien?	10	2
-1 City : Klagenfurt, Immigration : 12 .
-2 City : Bludenz, Immigration : 10 .
-3 What is the immigration in Klagenfurt?	12	1
-1 City : Graz, Immigration : 13 .
-2 City : Klagenfurt, Immigration : 17 .
-3 What is the immigration in Klagenfurt?	17	2
-1 City : Villach, Immigration : 10 .
-2 City : Salzburg, Immigration : 14 .
-3 What is the immigration in Villach?	10	1
-1 City : Bludenz, Immigration : 15 .
-2 City : Wien, Immigration : 11 .
-3 What is the immigration in Wien?	11	2
-1 City : Graz, Immigration : 14 .
-2 City : Klagenfurt, Immigration : 17 .
-3 What is the immigration in Graz?	14	1
-1 City : Graz, Immigration : 16 .
-2 City : Wien, Immigration : 19 .
-3 What is the immigration in Graz?	16	1
-1 City : Villach, Immigration : 18 .
-2 City : Linz, Immigration : 18 .
-3 What is the immigration in Linz?	18	2
-1 City : Graz, Immigration : 10 .
-2 City : Salzburg, Immigration : 15 .
-3 What is the immigration in Salzburg?	15	2
-1 City : Salzburg, Immigration : 10 .
-2 City : Bludenz, Immigration : 14 .
-3 What is the immigration in Salzburg?	10	1
-1 City : Salzburg, Immigration : 18 .
-2 City : Villach, Immigration : 16 .
-3 What is the immigration in Salzburg?	18	1
-1 City : Wien, Immigration : 11 .
-2 City : Feldkirch, Immigration : 11 .
-3 What is the immigration in Feldkirch?	11	2
-1 City : Salzburg, Immigration : 18 .
-2 City : Bludenz, Immigration : 17 .
-3 What is the immigration in Bludenz?	17	2
-1 City : Linz, Immigration : 11 .
-2 City : Villach, Immigration : 15 .
-3 What is the immigration in Villach?	15	2
-1 City : Feldkirch, Immigration : 11 .
-2 City : Salzburg, Immigration : 12 .
-3 What is the immigration in Feldkirch?	11	1
-1 City : Bludenz, Immigration : 18 .
-2 City : Wien, Immigration : 14 .
-3 What is the immigration in Bludenz?	18	1
-1 City : Feldkirch, Immigration : 16 .
-2 City : Villach, Immigration : 16 .
-3 What is the immigration in Feldkirch?	16	1
-1 City : Bludenz, Immigration : 12 .
-2 City : Klagenfurt, Immigration : 17 .
-3 What is the immigration in Klagenfurt?	17	2
-1 City : Klagenfurt, Immigration : 11 .
-2 City : Salzburg, Immigration : 16 .
-3 What is the immigration in Klagenfurt?	11	1
-1 City : Wien, Immigration : 13 .
-2 City : Feldkirch, Immigration : 11 .
-3 What is the immigration in Feldkirch?	11	2
-1 City : Bludenz, Immigration : 11 .
-2 City : Villach, Immigration : 14 .
-3 What is the immigration in Villach?	14	2
-1 City : Bludenz, Immigration : 16 .
-2 City : Linz, Immigration : 16 .
-3 What is the immigration in Bludenz?	16	1
-1 City : Wien, Immigration : 14 .
-2 City : Graz, Immigration : 18 .
-3 What is the immigration in Wien?	14	1
-1 City : Salzburg, Immigration : 10 .
-2 City : Villach, Immigration : 12 .
-3 What is the immigration in Salzburg?	10	1
-1 City : Salzburg, Immigration : 10 .
-2 City : Wien, Immigration : 15 .
-3 What is the immigration in Wien?	15	2
-1 City : Klagenfurt, Immigration : 18 .
-2 City : Salzburg, Immigration : 19 .
-3 What is the immigration in Klagenfurt?	18	1
-1 City : Linz, Immigration : 18 .
-2 City : Salzburg, Immigration : 19 .
-3 What is the immigration in Linz?	18	1
-1 City : Linz, Immigration : 17 .
-2 City : Klagenfurt, Immigration : 10 .
-3 What is the immigration in Klagenfurt?	10	2
-1 City : Graz, Immigration : 17 .
-2 City : Feldkirch, Immigration : 15 .
-3 What is the immigration in Graz?	17	1
-1 City : Feldkirch, Immigration : 14 .
-2 City : Salzburg, Immigration : 19 .
-3 What is the immigration in Salzburg?	19	2
-1 City : Wien, Immigration : 15 .
-2 City : Graz, Immigration : 17 .
-3 What is the immigration in Graz?	17	2
-1 City : Villach, Immigration : 17 .
-2 City : Linz, Immigration : 14 .
-3 What is the immigration in Linz?	14	2
-1 City : Graz, Immigration : 12 .
-2 City : Villach, Immigration : 16 .
-3 What is the immigration in Villach?	16	2
-1 City : Graz, Immigration : 12 .
-2 City : Villach, Immigration : 13 .
-3 What is the immigration in Villach?	13	2
-1 City : Linz, Immigration : 16 .
-2 City : Graz, Immigration : 14 .
-3 What is the immigration in Linz?	16	1
-1 City : Villach, Immigration : 13 .
-2 City : Salzburg, Immigration : 17 .
-3 What is the immigration in Salzburg?	17	2
-1 City : Wien, Immigration : 12 .
-2 City : Linz, Immigration : 11 .
-3 What is the immigration in Wien?	12	1
-1 City : Linz, Immigration : 14 .
-2 City : Feldkirch, Immigration : 15 .
-3 What is the immigration in Feldkirch?	15	2
-1 City : Wien, Immigration : 16 .
-2 City : Graz, Immigration : 12 .
-3 What is the immigration in Graz?	12	2
-1 City : Bludenz, Immigration : 16 .
-2 City : Graz, Immigration : 14 .
-3 What is the immigration in Graz?	14	2
-1 City : Feldkirch, Immigration : 11 .
-2 City : Graz, Immigration : 17 .
-3 What is the immigration in Feldkirch?	11	1
-1 City : Villach, Immigration : 18 .
-2 City : Graz, Immigration : 15 .
-3 What is the immigration in Villach?	18	1
-1 City : Villach, Immigration : 10 .
-2 City : Salzburg, Immigration : 17 .
-3 What is the immigration in Villach?	10	1
-1 City : Graz, Immigration : 19 .
-2 City : Wien, Immigration : 16 .
-3 What is the immigration in Graz?	19	1
-1 City : Linz, Immigration : 14 .
-2 City : Klagenfurt, Immigration : 16 .
-3 What is the immigration in Linz?	14	1
-1 City : Salzburg, Immigration : 18 .
-2 City : Wien, Immigration : 11 .
-3 What is the immigration in Wien?	11	2
-1 City : Feldkirch, Immigration : 18 .
-2 City : Wien, Immigration : 10 .
-3 What is the immigration in Wien?	10	2
-1 City : Salzburg, Immigration : 10 .
-2 City : Klagenfurt, Immigration : 18 .
-3 What is the immigration in Salzburg?	10	1
-1 City : Villach, Immigration : 16 .
-2 City : Wien, Immigration : 16 .
-3 What is the immigration in Villach?	16	1
-1 City : Linz, Immigration : 11 .
-2 City : Villach, Immigration : 14 .
-3 What is the immigration in Villach?	14	2
-1 City : Linz, Immigration : 13 .
-2 City : Bludenz, Immigration : 13 .
-3 What is the immigration in Linz?	13	1
-1 City : Bludenz, Immigration : 16 .
-2 City : Graz, Immigration : 11 .
-3 What is the immigration in Bludenz?	16	1
-1 City : Wien, Immigration : 17 .
-2 City : Graz, Immigration : 14 .
-3 What is the immigration in Wien?	17	1
-1 City : Feldkirch, Immigration : 12 .
-2 City : Bludenz, Immigration : 11 .
-3 What is the immigration in Feldkirch?	12	1
-1 City : Bludenz, Immigration : 14 .
-2 City : Klagenfurt, Immigration : 10 .
-3 What is the immigration in Klagenfurt?	10	2
-1 City : Graz, Immigration : 19 .
-2 City : Feldkirch, Immigration : 16 .
-3 What is the immigration in Feldkirch?	16	2
-1 City : Graz, Immigration : 18 .
-2 City : Salzburg, Immigration : 17 .
-3 What is the immigration in Graz?	18	1
-1 City : Salzburg, Immigration : 19 .
-2 City : Villach, Immigration : 11 .
-3 What is the immigration in Villach?	11	2
-1 City : Bludenz, Immigration : 19 .
-2 City : Wien, Immigration : 12 .
-3 What is the immigration in Bludenz?	19	1
-1 City : Graz, Immigration : 15 .
-2 City : Salzburg, Immigration : 12 .
-3 What is the immigration in Graz?	15	1
-1 City : Linz, Immigration : 13 .
-2 City : Wien, Immigration : 11 .
-3 What is the immigration in Linz?	13	1
-1 City : Villach, Immigration : 18 .
-2 City : Feldkirch, Immigration : 12 .
-3 What is the immigration in Feldkirch?	12	2
-1 City : Graz, Immigration : 12 .
-2 City : Salzburg, Immigration : 14 .
-3 What is the immigration in Graz?	12	1
-1 City : Salzburg, Immigration : 15 .
-2 City : Villach, Immigration : 18 .
-3 What is the immigration in Salzburg?	15	1
-1 City : Graz, Immigration : 11 .
-2 City : Linz, Immigration : 14 .
-3 What is the immigration in Linz?	14	2
-1 City : Villach, Immigration : 14 .
-2 City : Graz, Immigration : 15 .
-3 What is the immigration in Graz?	15	2
-1 City : Klagenfurt, Immigration : 13 .
-2 City : Linz, Immigration : 10 .
-3 What is the immigration in Linz?	10	2
-1 City : Klagenfurt, Immigration : 12 .
-2 City : Villach, Immigration : 10 .
-3 What is the immigration in Klagenfurt?	12	1
-1 City : Salzburg, Immigration : 11 .
-2 City : Klagenfurt, Immigration : 19 .
-3 What is the immigration in Klagenfurt?	19	2
-1 City : Bludenz, Immigration : 15 .
-2 City : Villach, Immigration : 14 .
-3 What is the immigration in Bludenz?	15	1
-1 City : Linz, Immigration : 11 .
-2 City : Feldkirch, Immigration : 19 .
-3 What is the immigration in Linz?	11	1
-1 City : Villach, Immigration : 14 .
-2 City : Graz, Immigration : 14 .
-3 What is the immigration in Graz?	14	2
-1 City : Villach, Immigration : 17 .
-2 City : Graz, Immigration : 12 .
-3 What is the immigration in Villach?	17	1
-1 City : Linz, Immigration : 19 .
-2 City : Salzburg, Immigration : 18 .
-3 What is the immigration in Salzburg?	18	2
-1 City : Bludenz, Immigration : 18 .
-2 City : Villach, Immigration : 11 .
-3 What is the immigration in Bludenz?	18	1
-1 City : Bludenz, Immigration : 14 .
-2 City : Villach, Immigration : 12 .
-3 What is the immigration in Villach?	12	2
-1 City : Graz, Immigration : 13 .
-2 City : Wien, Immigration : 13 .
-3 What is the immigration in Graz?	13	1
-1 City : Villach, Immigration : 12 .
-2 City : Bludenz, Immigration : 18 .
-3 What is the immigration in Bludenz?	18	2
-1 City : Wien, Immigration : 10 .
-2 City : Salzburg, Immigration : 17 .
-3 What is the immigration in Wien?	10	1
-1 City : Feldkirch, Immigration : 19 .
-2 City : Bludenz, Immigration : 12 .
-3 What is the immigration in Feldkirch?	19	1
-1 City : Wien, Immigration : 19 .
-2 City : Feldkirch, Immigration : 16 .
-3 What is the immigration in Wien?	19	1
-1 City : Linz, Immigration : 16 .
-2 City : Graz, Immigration : 15 .
-3 What is the immigration in Linz?	16	1
-1 City : Feldkirch, Immigration : 13 .
-2 City : Linz, Immigration : 19 .
-3 What is the immigration in Linz?	19	2
-1 City : Wien, Immigration : 13 .
-2 City : Bludenz, Immigration : 15 .
-3 What is the immigration in Wien?	13	1
-1 City : Graz, Immigration : 15 .
-2 City : Klagenfurt, Immigration : 13 .
-3 What is the immigration in Klagenfurt?	13	2
-1 City : Villach, Immigration : 18 .
-2 City : Linz, Immigration : 18 .
-3 What is the immigration in Linz?	18	2
-1 City : Graz, Immigration : 10 .
-2 City : Klagenfurt, Immigration : 15 .
-3 What is the immigration in Graz?	10	1
-1 City : Bludenz, Immigration : 12 .
-2 City : Wien, Immigration : 11 .
-3 What is the immigration in Wien?	11	2
-1 City : Linz, Immigration : 17 .
-2 City : Feldkirch, Immigration : 10 .
-3 What is the immigration in Feldkirch?	10	2
-1 City : Klagenfurt, Immigration : 19 .
-2 City : Bludenz, Immigration : 10 .
-3 What is the immigration in Bludenz?	10	2
-1 City : Wien, Immigration : 15 .
-2 City : Bludenz, Immigration : 10 .
-3 What is the immigration in Bludenz?	10	2
-1 City : Graz, Immigration : 16 .
-2 City : Villach, Immigration : 12 .
-3 What is the immigration in Graz?	16	1
-1 City : Salzburg, Immigration : 10 .
-2 City : Feldkirch, Immigration : 16 .
-3 What is the immigration in Feldkirch?	16	2
-1 City : Klagenfurt, Immigration : 14 .
-2 City : Feldkirch, Immigration : 12 .
-3 What is the immigration in Feldkirch?	12	2
-1 City : Linz, Immigration : 15 .
-2 City : Villach, Immigration : 15 .
-3 What is the immigration in Linz?	15	1
-1 City : Wien, Immigration : 19 .
-2 City : Salzburg, Immigration : 16 .
-3 What is the immigration in Wien?	19	1
-1 City : Linz, Immigration : 12 .
-2 City : Feldkirch, Immigration : 17 .
-3 What is the immigration in Feldkirch?	17	2
-1 City : Salzburg, Immigration : 19 .
-2 City : Bludenz, Immigration : 15 .
-3 What is the immigration in Bludenz?	15	2
-1 City : Linz, Immigration : 18 .
-2 City : Graz, Immigration : 18 .
-3 What is the immigration in Graz?	18	2
-1 City : Villach, Immigration : 10 .
-2 City : Linz, Immigration : 11 .
-3 What is the immigration in Linz?	11	2
-1 City : Bludenz, Immigration : 11 .
-2 City : Villach, Immigration : 19 .
-3 What is the immigration in Villach?	19	2
-1 City : Villach, Immigration : 16 .
-2 City : Linz, Immigration : 11 .
-3 What is the immigration in Villach?	16	1
-1 City : Graz, Immigration : 13 .
-2 City : Wien, Immigration : 13 .
-3 What is the immigration in Graz?	13	1
-1 City : Salzburg, Immigration : 18 .
-2 City : Feldkirch, Immigration : 15 .
-3 What is the immigration in Salzburg?	18	1
-1 City : Wien, Immigration : 12 .
-2 City : Graz, Immigration : 14 .
-3 What is the immigration in Graz?	14	2
-1 City : Salzburg, Immigration : 15 .
-2 City : Linz, Immigration : 15 .
-3 What is the immigration in Salzburg?	15	1
-1 City : Klagenfurt, Immigration : 12 .
-2 City : Graz, Immigration : 19 .
-3 What is the immigration in Graz?	19	2
-1 City : Feldkirch, Immigration : 14 .
-2 City : Wien, Immigration : 15 .
-3 What is the immigration in Feldkirch?	14	1
-1 City : Bludenz, Immigration : 12 .
-2 City : Linz, Immigration : 11 .
-3 What is the immigration in Linz?	11	2
-1 City : Salzburg, Immigration : 19 .
-2 City : Villach, Immigration : 17 .
-3 What is the immigration in Villach?	17	2
-1 City : Feldkirch, Immigration : 15 .
-2 City : Salzburg, Immigration : 15 .
-3 What is the immigration in Feldkirch?	15	1
-1 City : Bludenz, Immigration : 14 .
-2 City : Salzburg, Immigration : 16 .
-3 What is the immigration in Bludenz?	14	1
-1 City : Villach, Immigration : 18 .
-2 City : Feldkirch, Immigration : 12 .
-3 What is the immigration in Villach?	18	1
-1 City : Linz, Immigration : 16 .
-2 City : Salzburg, Immigration : 14 .
-3 What is the immigration in Linz?	16	1
-1 City : Bludenz, Immigration : 18 .
-2 City : Linz, Immigration : 12 .
-3 What is the immigration in Linz?	12	2
-1 City : Wien, Immigration : 12 .
-2 City : Feldkirch, Immigration : 19 .
-3 What is the immigration in Feldkirch?	19	2
-1 City : Salzburg, Immigration : 19 .
-2 City : Linz, Immigration : 12 .
-3 What is the immigration in Linz?	12	2
-1 City : Villach, Immigration : 15 .
-2 City : Salzburg, Immigration : 13 .
-3 What is the immigration in Salzburg?	13	2
-1 City : Wien, Immigration : 17 .
-2 City : Villach, Immigration : 19 .
-3 What is the immigration in Villach?	19	2
-1 City : Bludenz, Immigration : 17 .
-2 City : Wien, Immigration : 10 .
-3 What is the immigration in Bludenz?	17	1
-1 City : Villach, Immigration : 10 .
-2 City : Klagenfurt, Immigration : 11 .
-3 What is the immigration in Villach?	10	1
+1 City : Klagenfurt, Immigration : 13 , Emmigration : 17.
+2 City : Wien, Immigration : 17, Emmigration : 18 .
+3 What is the Immigration in Klagenfurt?	13	1
+1 City : Salzburg, Immigration : 11 , Emmigration : 13.
+2 City : Graz, Immigration : 14, Emmigration : 17 .
+3 What is the Immigration in Graz?	14	2
+1 City : Bludenz, Immigration : 12 , Emmigration : 18.
+2 City : Salzburg, Immigration : 18, Emmigration : 14 .
+3 What is the Immigration in Salzburg?	18	2
+1 City : Villach, Immigration : 14 , Emmigration : 14.
+2 City : Wien, Immigration : 18, Emmigration : 14 .
+3 What is the Emmigration in Villach?	14	1
+1 City : Feldkirch, Immigration : 11 , Emmigration : 10.
+2 City : Villach, Immigration : 17, Emmigration : 13 .
+3 What is the Emmigration in Villach?	13	2
+1 City : Graz, Immigration : 17 , Emmigration : 11.
+2 City : Linz, Immigration : 15, Emmigration : 11 .
+3 What is the Immigration in Graz?	17	1
+1 City : Graz, Immigration : 17 , Emmigration : 18.
+2 City : Klagenfurt, Immigration : 15, Emmigration : 12 .
+3 What is the Immigration in Klagenfurt?	15	2
+1 City : Bludenz, Immigration : 19 , Emmigration : 10.
+2 City : Graz, Immigration : 17, Emmigration : 18 .
+3 What is the Immigration in Graz?	17	2
+1 City : Wien, Immigration : 12 , Emmigration : 17.
+2 City : Bludenz, Immigration : 15, Emmigration : 15 .
+3 What is the Immigration in Bludenz?	15	2
+1 City : Feldkirch, Immigration : 17 , Emmigration : 18.
+2 City : Linz, Immigration : 18, Emmigration : 15 .
+3 What is the Immigration in Linz?	18	2
+1 City : Graz, Immigration : 15 , Emmigration : 14.
+2 City : Klagenfurt, Immigration : 17, Emmigration : 15 .
+3 What is the Immigration in Graz?	15	1
+1 City : Bludenz, Immigration : 19 , Emmigration : 19.
+2 City : Feldkirch, Immigration : 16, Emmigration : 14 .
+3 What is the Immigration in Bludenz?	19	1
+1 City : Villach, Immigration : 16 , Emmigration : 17.
+2 City : Klagenfurt, Immigration : 11, Emmigration : 19 .
+3 What is the Immigration in Villach?	16	1
+1 City : Linz, Immigration : 16 , Emmigration : 16.
+2 City : Salzburg, Immigration : 16, Emmigration : 10 .
+3 What is the Immigration in Salzburg?	16	2
+1 City : Feldkirch, Immigration : 19 , Emmigration : 15.
+2 City : Linz, Immigration : 14, Emmigration : 18 .
+3 What is the Immigration in Feldkirch?	19	1
+1 City : Bludenz, Immigration : 11 , Emmigration : 13.
+2 City : Wien, Immigration : 15, Emmigration : 15 .
+3 What is the Immigration in Wien?	15	2
+1 City : Graz, Immigration : 11 , Emmigration : 13.
+2 City : Klagenfurt, Immigration : 18, Emmigration : 13 .
+3 What is the Immigration in Klagenfurt?	18	2
+1 City : Feldkirch, Immigration : 15 , Emmigration : 11.
+2 City : Graz, Immigration : 12, Emmigration : 19 .
+3 What is the Emmigration in Graz?	19	2
+1 City : Wien, Immigration : 11 , Emmigration : 15.
+2 City : Linz, Immigration : 11, Emmigration : 13 .
+3 What is the Emmigration in Linz?	13	2
+1 City : Wien, Immigration : 16 , Emmigration : 11.
+2 City : Villach, Immigration : 10, Emmigration : 10 .
+3 What is the Immigration in Villach?	10	2
+1 City : Wien, Immigration : 11 , Emmigration : 14.
+2 City : Villach, Immigration : 15, Emmigration : 16 .
+3 What is the Immigration in Wien?	11	1
+1 City : Feldkirch, Immigration : 16 , Emmigration : 16.
+2 City : Graz, Immigration : 11, Emmigration : 13 .
+3 What is the Emmigration in Graz?	13	2
+1 City : Klagenfurt, Immigration : 15 , Emmigration : 19.
+2 City : Linz, Immigration : 19, Emmigration : 14 .
+3 What is the Immigration in Linz?	19	2
+1 City : Bludenz, Immigration : 10 , Emmigration : 13.
+2 City : Linz, Immigration : 16, Emmigration : 18 .
+3 What is the Immigration in Linz?	16	2
+1 City : Bludenz, Immigration : 12 , Emmigration : 12.
+2 City : Salzburg, Immigration : 12, Emmigration : 13 .
+3 What is the Emmigration in Bludenz?	12	1
+1 City : Villach, Immigration : 19 , Emmigration : 16.
+2 City : Wien, Immigration : 15, Emmigration : 12 .
+3 What is the Emmigration in Villach?	16	1
+1 City : Linz, Immigration : 10 , Emmigration : 11.
+2 City : Bludenz, Immigration : 19, Emmigration : 19 .
+3 What is the Emmigration in Linz?	11	1
+1 City : Linz, Immigration : 16 , Emmigration : 18.
+2 City : Wien, Immigration : 19, Emmigration : 17 .
+3 What is the Emmigration in Linz?	18	1
+1 City : Linz, Immigration : 10 , Emmigration : 13.
+2 City : Villach, Immigration : 19, Emmigration : 16 .
+3 What is the Immigration in Villach?	19	2
+1 City : Wien, Immigration : 19 , Emmigration : 16.
+2 City : Villach, Immigration : 19, Emmigration : 16 .
+3 What is the Emmigration in Villach?	16	2
+1 City : Feldkirch, Immigration : 10 , Emmigration : 11.
+2 City : Salzburg, Immigration : 16, Emmigration : 12 .
+3 What is the Immigration in Salzburg?	16	2
+1 City : Feldkirch, Immigration : 14 , Emmigration : 10.
+2 City : Linz, Immigration : 11, Emmigration : 11 .
+3 What is the Emmigration in Linz?	11	2
+1 City : Villach, Immigration : 10 , Emmigration : 11.
+2 City : Linz, Immigration : 11, Emmigration : 14 .
+3 What is the Immigration in Villach?	10	1
+1 City : Klagenfurt, Immigration : 16 , Emmigration : 12.
+2 City : Linz, Immigration : 13, Emmigration : 18 .
+3 What is the Immigration in Linz?	13	2
+1 City : Wien, Immigration : 12 , Emmigration : 18.
+2 City : Villach, Immigration : 12, Emmigration : 13 .
+3 What is the Immigration in Wien?	12	1
+1 City : Linz, Immigration : 11 , Emmigration : 11.
+2 City : Graz, Immigration : 14, Emmigration : 16 .
+3 What is the Immigration in Graz?	14	2
+1 City : Bludenz, Immigration : 13 , Emmigration : 16.
+2 City : Graz, Immigration : 15, Emmigration : 13 .
+3 What is the Emmigration in Graz?	13	2
+1 City : Bludenz, Immigration : 16 , Emmigration : 12.
+2 City : Wien, Immigration : 13, Emmigration : 15 .
+3 What is the Emmigration in Wien?	15	2
+1 City : Salzburg, Immigration : 12 , Emmigration : 19.
+2 City : Bludenz, Immigration : 15, Emmigration : 12 .
+3 What is the Immigration in Bludenz?	15	2
+1 City : Villach, Immigration : 18 , Emmigration : 19.
+2 City : Salzburg, Immigration : 13, Emmigration : 15 .
+3 What is the Immigration in Villach?	18	1
+1 City : Villach, Immigration : 15 , Emmigration : 12.
+2 City : Salzburg, Immigration : 11, Emmigration : 16 .
+3 What is the Immigration in Villach?	15	1
+1 City : Bludenz, Immigration : 16 , Emmigration : 13.
+2 City : Klagenfurt, Immigration : 15, Emmigration : 12 .
+3 What is the Emmigration in Bludenz?	13	1
+1 City : Salzburg, Immigration : 17 , Emmigration : 15.
+2 City : Villach, Immigration : 16, Emmigration : 10 .
+3 What is the Emmigration in Villach?	10	2
+1 City : Villach, Immigration : 17 , Emmigration : 16.
+2 City : Klagenfurt, Immigration : 17, Emmigration : 10 .
+3 What is the Immigration in Villach?	17	1
+1 City : Bludenz, Immigration : 17 , Emmigration : 18.
+2 City : Linz, Immigration : 18, Emmigration : 18 .
+3 What is the Immigration in Linz?	18	2
+1 City : Klagenfurt, Immigration : 13 , Emmigration : 19.
+2 City : Wien, Immigration : 15, Emmigration : 15 .
+3 What is the Immigration in Klagenfurt?	13	1
+1 City : Klagenfurt, Immigration : 18 , Emmigration : 12.
+2 City : Graz, Immigration : 10, Emmigration : 14 .
+3 What is the Emmigration in Klagenfurt?	12	1
+1 City : Bludenz, Immigration : 11 , Emmigration : 15.
+2 City : Villach, Immigration : 14, Emmigration : 19 .
+3 What is the Immigration in Villach?	14	2
+1 City : Bludenz, Immigration : 11 , Emmigration : 12.
+2 City : Graz, Immigration : 12, Emmigration : 14 .
+3 What is the Immigration in Graz?	12	2
+1 City : Klagenfurt, Immigration : 17 , Emmigration : 17.
+2 City : Wien, Immigration : 10, Emmigration : 11 .
+3 What is the Emmigration in Wien?	11	2
+1 City : Salzburg, Immigration : 11 , Emmigration : 19.
+2 City : Linz, Immigration : 14, Emmigration : 17 .
+3 What is the Emmigration in Linz?	17	2
+1 City : Feldkirch, Immigration : 14 , Emmigration : 14.
+2 City : Villach, Immigration : 18, Emmigration : 15 .
+3 What is the Emmigration in Feldkirch?	14	1
+1 City : Linz, Immigration : 12 , Emmigration : 17.
+2 City : Villach, Immigration : 19, Emmigration : 13 .
+3 What is the Immigration in Linz?	12	1
+1 City : Linz, Immigration : 15 , Emmigration : 14.
+2 City : Wien, Immigration : 12, Emmigration : 12 .
+3 What is the Emmigration in Wien?	12	2
+1 City : Salzburg, Immigration : 12 , Emmigration : 10.
+2 City : Villach, Immigration : 18, Emmigration : 13 .
+3 What is the Immigration in Villach?	18	2
+1 City : Wien, Immigration : 19 , Emmigration : 17.
+2 City : Villach, Immigration : 16, Emmigration : 10 .
+3 What is the Immigration in Wien?	19	1
+1 City : Graz, Immigration : 11 , Emmigration : 11.
+2 City : Salzburg, Immigration : 16, Emmigration : 14 .
+3 What is the Immigration in Salzburg?	16	2
+1 City : Salzburg, Immigration : 17 , Emmigration : 15.
+2 City : Bludenz, Immigration : 19, Emmigration : 18 .
+3 What is the Emmigration in Bludenz?	18	2
+1 City : Villach, Immigration : 15 , Emmigration : 15.
+2 City : Graz, Immigration : 10, Emmigration : 17 .
+3 What is the Immigration in Graz?	10	2
+1 City : Feldkirch, Immigration : 10 , Emmigration : 19.
+2 City : Klagenfurt, Immigration : 13, Emmigration : 12 .
+3 What is the Immigration in Klagenfurt?	13	2
+1 City : Wien, Immigration : 19 , Emmigration : 10.
+2 City : Feldkirch, Immigration : 12, Emmigration : 14 .
+3 What is the Immigration in Feldkirch?	12	2
+1 City : Graz, Immigration : 15 , Emmigration : 12.
+2 City : Bludenz, Immigration : 19, Emmigration : 12 .
+3 What is the Immigration in Graz?	15	1
+1 City : Linz, Immigration : 14 , Emmigration : 12.
+2 City : Salzburg, Immigration : 16, Emmigration : 11 .
+3 What is the Emmigration in Linz?	12	1
+1 City : Feldkirch, Immigration : 13 , Emmigration : 10.
+2 City : Graz, Immigration : 16, Emmigration : 13 .
+3 What is the Emmigration in Feldkirch?	10	1
+1 City : Linz, Immigration : 17 , Emmigration : 18.
+2 City : Bludenz, Immigration : 13, Emmigration : 10 .
+3 What is the Immigration in Bludenz?	13	2
+1 City : Feldkirch, Immigration : 16 , Emmigration : 14.
+2 City : Bludenz, Immigration : 12, Emmigration : 10 .
+3 What is the Emmigration in Bludenz?	10	2
+1 City : Bludenz, Immigration : 12 , Emmigration : 13.
+2 City : Feldkirch, Immigration : 16, Emmigration : 10 .
+3 What is the Immigration in Feldkirch?	16	2
+1 City : Klagenfurt, Immigration : 12 , Emmigration : 14.
+2 City : Graz, Immigration : 12, Emmigration : 16 .
+3 What is the Immigration in Graz?	12	2
+1 City : Graz, Immigration : 10 , Emmigration : 10.
+2 City : Feldkirch, Immigration : 17, Emmigration : 16 .
+3 What is the Emmigration in Feldkirch?	16	2
+1 City : Feldkirch, Immigration : 19 , Emmigration : 12.
+2 City : Graz, Immigration : 15, Emmigration : 19 .
+3 What is the Immigration in Feldkirch?	19	1
+1 City : Klagenfurt, Immigration : 16 , Emmigration : 16.
+2 City : Villach, Immigration : 10, Emmigration : 14 .
+3 What is the Emmigration in Klagenfurt?	16	1
+1 City : Klagenfurt, Immigration : 18 , Emmigration : 17.
+2 City : Bludenz, Immigration : 18, Emmigration : 13 .
+3 What is the Emmigration in Klagenfurt?	17	1
+1 City : Wien, Immigration : 12 , Emmigration : 16.
+2 City : Feldkirch, Immigration : 15, Emmigration : 16 .
+3 What is the Immigration in Wien?	12	1
+1 City : Villach, Immigration : 14 , Emmigration : 19.
+2 City : Graz, Immigration : 15, Emmigration : 16 .
+3 What is the Emmigration in Villach?	19	1
+1 City : Klagenfurt, Immigration : 17 , Emmigration : 13.
+2 City : Graz, Immigration : 19, Emmigration : 14 .
+3 What is the Emmigration in Klagenfurt?	13	1
+1 City : Graz, Immigration : 19 , Emmigration : 13.
+2 City : Bludenz, Immigration : 11, Emmigration : 13 .
+3 What is the Immigration in Bludenz?	11	2
+1 City : Salzburg, Immigration : 16 , Emmigration : 19.
+2 City : Bludenz, Immigration : 12, Emmigration : 18 .
+3 What is the Emmigration in Salzburg?	19	1
+1 City : Bludenz, Immigration : 15 , Emmigration : 16.
+2 City : Linz, Immigration : 13, Emmigration : 15 .
+3 What is the Emmigration in Bludenz?	16	1
+1 City : Villach, Immigration : 16 , Emmigration : 16.
+2 City : Feldkirch, Immigration : 11, Emmigration : 10 .
+3 What is the Immigration in Villach?	16	1
+1 City : Wien, Immigration : 17 , Emmigration : 16.
+2 City : Graz, Immigration : 18, Emmigration : 16 .
+3 What is the Emmigration in Graz?	16	2
+1 City : Wien, Immigration : 16 , Emmigration : 13.
+2 City : Villach, Immigration : 10, Emmigration : 18 .
+3 What is the Immigration in Wien?	16	1
+1 City : Klagenfurt, Immigration : 18 , Emmigration : 11.
+2 City : Feldkirch, Immigration : 10, Emmigration : 16 .
+3 What is the Emmigration in Feldkirch?	16	2
+1 City : Villach, Immigration : 18 , Emmigration : 15.
+2 City : Graz, Immigration : 14, Emmigration : 15 .
+3 What is the Immigration in Graz?	14	2
+1 City : Graz, Immigration : 11 , Emmigration : 12.
+2 City : Salzburg, Immigration : 14, Emmigration : 10 .
+3 What is the Immigration in Salzburg?	14	2
+1 City : Wien, Immigration : 15 , Emmigration : 19.
+2 City : Villach, Immigration : 10, Emmigration : 17 .
+3 What is the Emmigration in Wien?	19	1
+1 City : Linz, Immigration : 12 , Emmigration : 10.
+2 City : Feldkirch, Immigration : 11, Emmigration : 10 .
+3 What is the Immigration in Feldkirch?	11	2
+1 City : Linz, Immigration : 12 , Emmigration : 10.
+2 City : Bludenz, Immigration : 10, Emmigration : 13 .
+3 What is the Emmigration in Bludenz?	13	2
+1 City : Graz, Immigration : 13 , Emmigration : 13.
+2 City : Klagenfurt, Immigration : 19, Emmigration : 14 .
+3 What is the Immigration in Klagenfurt?	19	2
+1 City : Salzburg, Immigration : 12 , Emmigration : 19.
+2 City : Klagenfurt, Immigration : 15, Emmigration : 19 .
+3 What is the Emmigration in Klagenfurt?	19	2
+1 City : Salzburg, Immigration : 10 , Emmigration : 15.
+2 City : Wien, Immigration : 11, Emmigration : 13 .
+3 What is the Immigration in Wien?	11	2
+1 City : Wien, Immigration : 17 , Emmigration : 10.
+2 City : Feldkirch, Immigration : 14, Emmigration : 12 .
+3 What is the Immigration in Wien?	17	1
+1 City : Feldkirch, Immigration : 19 , Emmigration : 16.
+2 City : Graz, Immigration : 14, Emmigration : 10 .
+3 What is the Emmigration in Graz?	10	2
+1 City : Feldkirch, Immigration : 16 , Emmigration : 12.
+2 City : Graz, Immigration : 16, Emmigration : 17 .
+3 What is the Immigration in Graz?	16	2
+1 City : Bludenz, Immigration : 14 , Emmigration : 11.
+2 City : Feldkirch, Immigration : 15, Emmigration : 14 .
+3 What is the Immigration in Bludenz?	14	1
+1 City : Linz, Immigration : 19 , Emmigration : 12.
+2 City : Wien, Immigration : 14, Emmigration : 11 .
+3 What is the Immigration in Linz?	19	1
+1 City : Klagenfurt, Immigration : 10 , Emmigration : 19.
+2 City : Salzburg, Immigration : 18, Emmigration : 13 .
+3 What is the Emmigration in Salzburg?	13	2
+1 City : Salzburg, Immigration : 11 , Emmigration : 15.
+2 City : Linz, Immigration : 16, Emmigration : 14 .
+3 What is the Emmigration in Linz?	14	2
+1 City : Feldkirch, Immigration : 12 , Emmigration : 19.
+2 City : Klagenfurt, Immigration : 16, Emmigration : 16 .
+3 What is the Emmigration in Klagenfurt?	16	2
+1 City : Feldkirch, Immigration : 11 , Emmigration : 11.
+2 City : Graz, Immigration : 16, Emmigration : 15 .
+3 What is the Immigration in Feldkirch?	11	1
+1 City : Salzburg, Immigration : 12 , Emmigration : 17.
+2 City : Klagenfurt, Immigration : 15, Emmigration : 18 .
+3 What is the Emmigration in Salzburg?	17	1
+1 City : Graz, Immigration : 13 , Emmigration : 19.
+2 City : Feldkirch, Immigration : 19, Emmigration : 19 .
+3 What is the Emmigration in Feldkirch?	19	2
+1 City : Wien, Immigration : 12 , Emmigration : 11.
+2 City : Bludenz, Immigration : 16, Emmigration : 11 .
+3 What is the Immigration in Wien?	12	1
+1 City : Salzburg, Immigration : 12 , Emmigration : 14.
+2 City : Feldkirch, Immigration : 17, Emmigration : 18 .
+3 What is the Immigration in Feldkirch?	17	2
+1 City : Salzburg, Immigration : 10 , Emmigration : 17.
+2 City : Feldkirch, Immigration : 18, Emmigration : 12 .
+3 What is the Emmigration in Salzburg?	17	1
+1 City : Linz, Immigration : 14 , Emmigration : 16.
+2 City : Wien, Immigration : 11, Emmigration : 19 .
+3 What is the Immigration in Wien?	11	2
+1 City : Klagenfurt, Immigration : 17 , Emmigration : 14.
+2 City : Feldkirch, Immigration : 15, Emmigration : 12 .
+3 What is the Emmigration in Feldkirch?	12	2
+1 City : Villach, Immigration : 19 , Emmigration : 12.
+2 City : Klagenfurt, Immigration : 18, Emmigration : 14 .
+3 What is the Emmigration in Villach?	12	1
+1 City : Wien, Immigration : 19 , Emmigration : 12.
+2 City : Bludenz, Immigration : 18, Emmigration : 12 .
+3 What is the Emmigration in Wien?	12	1
+1 City : Linz, Immigration : 18 , Emmigration : 15.
+2 City : Wien, Immigration : 10, Emmigration : 19 .
+3 What is the Immigration in Wien?	10	2
+1 City : Wien, Immigration : 10 , Emmigration : 17.
+2 City : Feldkirch, Immigration : 16, Emmigration : 15 .
+3 What is the Immigration in Feldkirch?	16	2
+1 City : Salzburg, Immigration : 16 , Emmigration : 16.
+2 City : Feldkirch, Immigration : 19, Emmigration : 17 .
+3 What is the Immigration in Salzburg?	16	1
+1 City : Villach, Immigration : 19 , Emmigration : 12.
+2 City : Graz, Immigration : 16, Emmigration : 11 .
+3 What is the Emmigration in Villach?	12	1
+1 City : Klagenfurt, Immigration : 12 , Emmigration : 11.
+2 City : Salzburg, Immigration : 12, Emmigration : 16 .
+3 What is the Emmigration in Klagenfurt?	11	1
+1 City : Salzburg, Immigration : 12 , Emmigration : 16.
+2 City : Feldkirch, Immigration : 18, Emmigration : 13 .
+3 What is the Immigration in Salzburg?	12	1
+1 City : Salzburg, Immigration : 18 , Emmigration : 14.
+2 City : Graz, Immigration : 16, Emmigration : 18 .
+3 What is the Emmigration in Salzburg?	14	1
+1 City : Linz, Immigration : 12 , Emmigration : 10.
+2 City : Wien, Immigration : 19, Emmigration : 11 .
+3 What is the Emmigration in Wien?	11	2
+1 City : Villach, Immigration : 16 , Emmigration : 14.
+2 City : Klagenfurt, Immigration : 15, Emmigration : 11 .
+3 What is the Immigration in Villach?	16	1
+1 City : Linz, Immigration : 18 , Emmigration : 10.
+2 City : Bludenz, Immigration : 18, Emmigration : 16 .
+3 What is the Emmigration in Linz?	10	1
+1 City : Wien, Immigration : 15 , Emmigration : 18.
+2 City : Villach, Immigration : 16, Emmigration : 15 .
+3 What is the Immigration in Villach?	16	2
+1 City : Bludenz, Immigration : 12 , Emmigration : 17.
+2 City : Klagenfurt, Immigration : 12, Emmigration : 12 .
+3 What is the Emmigration in Bludenz?	17	1
+1 City : Villach, Immigration : 11 , Emmigration : 13.
+2 City : Wien, Immigration : 18, Emmigration : 19 .
+3 What is the Emmigration in Wien?	19	2
+1 City : Klagenfurt, Immigration : 18 , Emmigration : 11.
+2 City : Villach, Immigration : 10, Emmigration : 13 .
+3 What is the Emmigration in Klagenfurt?	11	1
+1 City : Salzburg, Immigration : 13 , Emmigration : 17.
+2 City : Linz, Immigration : 12, Emmigration : 12 .
+3 What is the Immigration in Salzburg?	13	1
+1 City : Linz, Immigration : 18 , Emmigration : 18.
+2 City : Villach, Immigration : 13, Emmigration : 16 .
+3 What is the Emmigration in Linz?	18	1
+1 City : Graz, Immigration : 14 , Emmigration : 16.
+2 City : Salzburg, Immigration : 19, Emmigration : 10 .
+3 What is the Emmigration in Salzburg?	10	2
+1 City : Linz, Immigration : 13 , Emmigration : 10.
+2 City : Bludenz, Immigration : 11, Emmigration : 13 .
+3 What is the Emmigration in Linz?	10	1
+1 City : Linz, Immigration : 18 , Emmigration : 13.
+2 City : Klagenfurt, Immigration : 14, Emmigration : 16 .
+3 What is the Immigration in Klagenfurt?	14	2
+1 City : Bludenz, Immigration : 19 , Emmigration : 17.
+2 City : Klagenfurt, Immigration : 17, Emmigration : 12 .
+3 What is the Immigration in Bludenz?	19	1
+1 City : Feldkirch, Immigration : 13 , Emmigration : 15.
+2 City : Wien, Immigration : 17, Emmigration : 14 .
+3 What is the Immigration in Feldkirch?	13	1
+1 City : Klagenfurt, Immigration : 19 , Emmigration : 14.
+2 City : Feldkirch, Immigration : 13, Emmigration : 11 .
+3 What is the Immigration in Klagenfurt?	19	1
+1 City : Salzburg, Immigration : 18 , Emmigration : 12.
+2 City : Graz, Immigration : 14, Emmigration : 15 .
+3 What is the Emmigration in Salzburg?	12	1
+1 City : Salzburg, Immigration : 17 , Emmigration : 17.
+2 City : Linz, Immigration : 12, Emmigration : 17 .
+3 What is the Emmigration in Linz?	17	2
+1 City : Feldkirch, Immigration : 14 , Emmigration : 18.
+2 City : Villach, Immigration : 16, Emmigration : 13 .
+3 What is the Immigration in Feldkirch?	14	1
+1 City : Bludenz, Immigration : 18 , Emmigration : 13.
+2 City : Salzburg, Immigration : 12, Emmigration : 14 .
+3 What is the Immigration in Bludenz?	18	1
+1 City : Salzburg, Immigration : 18 , Emmigration : 18.
+2 City : Wien, Immigration : 10, Emmigration : 14 .
+3 What is the Emmigration in Wien?	14	2
+1 City : Bludenz, Immigration : 14 , Emmigration : 16.
+2 City : Feldkirch, Immigration : 11, Emmigration : 17 .
+3 What is the Immigration in Bludenz?	14	1
+1 City : Wien, Immigration : 18 , Emmigration : 17.
+2 City : Klagenfurt, Immigration : 19, Emmigration : 17 .
+3 What is the Immigration in Klagenfurt?	19	2
+1 City : Salzburg, Immigration : 11 , Emmigration : 14.
+2 City : Villach, Immigration : 15, Emmigration : 13 .
+3 What is the Emmigration in Salzburg?	14	1
+1 City : Graz, Immigration : 15 , Emmigration : 17.
+2 City : Wien, Immigration : 15, Emmigration : 10 .
+3 What is the Emmigration in Wien?	10	2
+1 City : Feldkirch, Immigration : 18 , Emmigration : 13.
+2 City : Linz, Immigration : 16, Emmigration : 12 .
+3 What is the Immigration in Feldkirch?	18	1
+1 City : Klagenfurt, Immigration : 18 , Emmigration : 13.
+2 City : Feldkirch, Immigration : 14, Emmigration : 19 .
+3 What is the Emmigration in Feldkirch?	19	2
+1 City : Wien, Immigration : 16 , Emmigration : 12.
+2 City : Salzburg, Immigration : 15, Emmigration : 15 .
+3 What is the Immigration in Wien?	16	1
+1 City : Wien, Immigration : 10 , Emmigration : 10.
+2 City : Graz, Immigration : 11, Emmigration : 13 .
+3 What is the Emmigration in Graz?	13	2
+1 City : Villach, Immigration : 19 , Emmigration : 18.
+2 City : Bludenz, Immigration : 12, Emmigration : 18 .
+3 What is the Emmigration in Bludenz?	18	2
+1 City : Graz, Immigration : 19 , Emmigration : 13.
+2 City : Salzburg, Immigration : 17, Emmigration : 16 .
+3 What is the Emmigration in Salzburg?	16	2
+1 City : Salzburg, Immigration : 12 , Emmigration : 16.
+2 City : Bludenz, Immigration : 11, Emmigration : 18 .
+3 What is the Emmigration in Salzburg?	16	1
+1 City : Villach, Immigration : 18 , Emmigration : 16.
+2 City : Feldkirch, Immigration : 10, Emmigration : 14 .
+3 What is the Emmigration in Feldkirch?	14	2
+1 City : Klagenfurt, Immigration : 19 , Emmigration : 14.
+2 City : Graz, Immigration : 16, Emmigration : 10 .
+3 What is the Emmigration in Klagenfurt?	14	1
+1 City : Villach, Immigration : 13 , Emmigration : 12.
+2 City : Klagenfurt, Immigration : 19, Emmigration : 10 .
+3 What is the Immigration in Villach?	13	1
+1 City : Salzburg, Immigration : 16 , Emmigration : 16.
+2 City : Villach, Immigration : 14, Emmigration : 12 .
+3 What is the Emmigration in Villach?	12	2
+1 City : Salzburg, Immigration : 19 , Emmigration : 16.
+2 City : Wien, Immigration : 14, Emmigration : 17 .
+3 What is the Emmigration in Wien?	17	2
+1 City : Villach, Immigration : 12 , Emmigration : 19.
+2 City : Linz, Immigration : 19, Emmigration : 14 .
+3 What is the Immigration in Linz?	19	2
+1 City : Graz, Immigration : 10 , Emmigration : 19.
+2 City : Linz, Immigration : 13, Emmigration : 15 .
+3 What is the Immigration in Linz?	13	2
+1 City : Bludenz, Immigration : 16 , Emmigration : 15.
+2 City : Klagenfurt, Immigration : 11, Emmigration : 18 .
+3 What is the Emmigration in Klagenfurt?	18	2
+1 City : Wien, Immigration : 17 , Emmigration : 14.
+2 City : Villach, Immigration : 11, Emmigration : 17 .
+3 What is the Immigration in Villach?	11	2
+1 City : Feldkirch, Immigration : 10 , Emmigration : 15.
+2 City : Wien, Immigration : 18, Emmigration : 11 .
+3 What is the Emmigration in Wien?	11	2
+1 City : Graz, Immigration : 17 , Emmigration : 13.
+2 City : Bludenz, Immigration : 17, Emmigration : 17 .
+3 What is the Emmigration in Bludenz?	17	2
+1 City : Klagenfurt, Immigration : 15 , Emmigration : 11.
+2 City : Graz, Immigration : 11, Emmigration : 11 .
+3 What is the Emmigration in Klagenfurt?	11	1
+1 City : Linz, Immigration : 19 , Emmigration : 19.
+2 City : Salzburg, Immigration : 10, Emmigration : 19 .
+3 What is the Emmigration in Linz?	19	1
+1 City : Wien, Immigration : 18 , Emmigration : 18.
+2 City : Graz, Immigration : 17, Emmigration : 14 .
+3 What is the Immigration in Wien?	18	1
+1 City : Graz, Immigration : 18 , Emmigration : 11.
+2 City : Bludenz, Immigration : 11, Emmigration : 13 .
+3 What is the Emmigration in Bludenz?	13	2
+1 City : Graz, Immigration : 18 , Emmigration : 13.
+2 City : Feldkirch, Immigration : 16, Emmigration : 12 .
+3 What is the Immigration in Feldkirch?	16	2
+1 City : Salzburg, Immigration : 12 , Emmigration : 15.
+2 City : Graz, Immigration : 14, Emmigration : 12 .
+3 What is the Immigration in Graz?	14	2
+1 City : Linz, Immigration : 18 , Emmigration : 14.
+2 City : Bludenz, Immigration : 19, Emmigration : 16 .
+3 What is the Emmigration in Bludenz?	16	2
+1 City : Klagenfurt, Immigration : 17 , Emmigration : 19.
+2 City : Feldkirch, Immigration : 18, Emmigration : 17 .
+3 What is the Emmigration in Klagenfurt?	19	1
+1 City : Feldkirch, Immigration : 17 , Emmigration : 14.
+2 City : Salzburg, Immigration : 13, Emmigration : 17 .
+3 What is the Emmigration in Salzburg?	17	2
+1 City : Klagenfurt, Immigration : 18 , Emmigration : 18.
+2 City : Villach, Immigration : 10, Emmigration : 14 .
+3 What is the Emmigration in Villach?	14	2
+1 City : Graz, Immigration : 10 , Emmigration : 19.
+2 City : Wien, Immigration : 15, Emmigration : 14 .
+3 What is the Immigration in Wien?	15	2
+1 City : Graz, Immigration : 11 , Emmigration : 12.
+2 City : Bludenz, Immigration : 19, Emmigration : 15 .
+3 What is the Emmigration in Bludenz?	15	2
+1 City : Salzburg, Immigration : 15 , Emmigration : 10.
+2 City : Graz, Immigration : 14, Emmigration : 11 .
+3 What is the Emmigration in Salzburg?	10	1
+1 City : Bludenz, Immigration : 12 , Emmigration : 13.
+2 City : Wien, Immigration : 17, Emmigration : 16 .
+3 What is the Immigration in Wien?	17	2
+1 City : Linz, Immigration : 10 , Emmigration : 12.
+2 City : Graz, Immigration : 15, Emmigration : 10 .
+3 What is the Emmigration in Graz?	10	2
+1 City : Wien, Immigration : 12 , Emmigration : 13.
+2 City : Klagenfurt, Immigration : 17, Emmigration : 19 .
+3 What is the Emmigration in Wien?	13	1
+1 City : Salzburg, Immigration : 13 , Emmigration : 15.
+2 City : Klagenfurt, Immigration : 11, Emmigration : 10 .
+3 What is the Emmigration in Klagenfurt?	10	2
+1 City : Klagenfurt, Immigration : 17 , Emmigration : 12.
+2 City : Villach, Immigration : 16, Emmigration : 19 .
+3 What is the Immigration in Klagenfurt?	17	1
+1 City : Bludenz, Immigration : 14 , Emmigration : 13.
+2 City : Linz, Immigration : 17, Emmigration : 13 .
+3 What is the Emmigration in Linz?	13	2
+1 City : Wien, Immigration : 14 , Emmigration : 15.
+2 City : Linz, Immigration : 11, Emmigration : 16 .
+3 What is the Emmigration in Linz?	16	2
+1 City : Bludenz, Immigration : 16 , Emmigration : 15.
+2 City : Linz, Immigration : 15, Emmigration : 10 .
+3 What is the Emmigration in Bludenz?	15	1
+1 City : Feldkirch, Immigration : 14 , Emmigration : 17.
+2 City : Klagenfurt, Immigration : 18, Emmigration : 15 .
+3 What is the Emmigration in Feldkirch?	17	1
+1 City : Linz, Immigration : 10 , Emmigration : 12.
+2 City : Bludenz, Immigration : 14, Emmigration : 11 .
+3 What is the Immigration in Bludenz?	14	2
+1 City : Wien, Immigration : 10 , Emmigration : 13.
+2 City : Klagenfurt, Immigration : 19, Emmigration : 16 .
+3 What is the Emmigration in Wien?	13	1
+1 City : Wien, Immigration : 18 , Emmigration : 17.
+2 City : Klagenfurt, Immigration : 18, Emmigration : 14 .
+3 What is the Emmigration in Klagenfurt?	14	2
+1 City : Bludenz, Immigration : 13 , Emmigration : 15.
+2 City : Klagenfurt, Immigration : 15, Emmigration : 10 .
+3 What is the Emmigration in Klagenfurt?	10	2
+1 City : Salzburg, Immigration : 11 , Emmigration : 13.
+2 City : Linz, Immigration : 14, Emmigration : 11 .
+3 What is the Emmigration in Salzburg?	13	1
+1 City : Bludenz, Immigration : 11 , Emmigration : 15.
+2 City : Salzburg, Immigration : 17, Emmigration : 10 .
+3 What is the Immigration in Bludenz?	11	1
+1 City : Graz, Immigration : 18 , Emmigration : 18.
+2 City : Wien, Immigration : 13, Emmigration : 14 .
+3 What is the Immigration in Graz?	18	1
+1 City : Salzburg, Immigration : 10 , Emmigration : 12.
+2 City : Feldkirch, Immigration : 12, Emmigration : 11 .
+3 What is the Emmigration in Salzburg?	12	1
+1 City : Villach, Immigration : 19 , Emmigration : 12.
+2 City : Graz, Immigration : 14, Emmigration : 19 .
+3 What is the Emmigration in Villach?	12	1
+1 City : Linz, Immigration : 13 , Emmigration : 11.
+2 City : Salzburg, Immigration : 11, Emmigration : 11 .
+3 What is the Immigration in Salzburg?	11	2
+1 City : Wien, Immigration : 11 , Emmigration : 10.
+2 City : Klagenfurt, Immigration : 16, Emmigration : 11 .
+3 What is the Emmigration in Wien?	10	1
+1 City : Salzburg, Immigration : 12 , Emmigration : 12.
+2 City : Graz, Immigration : 16, Emmigration : 17 .
+3 What is the Immigration in Salzburg?	12	1
+1 City : Villach, Immigration : 13 , Emmigration : 14.
+2 City : Linz, Immigration : 10, Emmigration : 15 .
+3 What is the Immigration in Linz?	10	2
+1 City : Villach, Immigration : 11 , Emmigration : 18.
+2 City : Linz, Immigration : 11, Emmigration : 13 .
+3 What is the Immigration in Villach?	11	1
+1 City : Wien, Immigration : 11 , Emmigration : 19.
+2 City : Villach, Immigration : 18, Emmigration : 12 .
+3 What is the Immigration in Villach?	18	2
+1 City : Salzburg, Immigration : 10 , Emmigration : 18.
+2 City : Bludenz, Immigration : 13, Emmigration : 17 .
+3 What is the Immigration in Salzburg?	10	1
+1 City : Villach, Immigration : 18 , Emmigration : 11.
+2 City : Wien, Immigration : 15, Emmigration : 17 .
+3 What is the Immigration in Wien?	15	2
+1 City : Graz, Immigration : 14 , Emmigration : 14.
+2 City : Villach, Immigration : 18, Emmigration : 15 .
+3 What is the Emmigration in Graz?	14	1
+1 City : Wien, Immigration : 17 , Emmigration : 10.
+2 City : Feldkirch, Immigration : 15, Emmigration : 12 .
+3 What is the Emmigration in Feldkirch?	12	2
+1 City : Linz, Immigration : 18 , Emmigration : 16.
+2 City : Villach, Immigration : 17, Emmigration : 17 .
+3 What is the Emmigration in Linz?	16	1
+1 City : Linz, Immigration : 16 , Emmigration : 18.
+2 City : Villach, Immigration : 11, Emmigration : 14 .
+3 What is the Emmigration in Linz?	18	1
+1 City : Klagenfurt, Immigration : 18 , Emmigration : 15.
+2 City : Salzburg, Immigration : 12, Emmigration : 11 .
+3 What is the Emmigration in Salzburg?	11	2
+1 City : Villach, Immigration : 16 , Emmigration : 14.
+2 City : Wien, Immigration : 10, Emmigration : 12 .
+3 What is the Emmigration in Wien?	12	2
+1 City : Klagenfurt, Immigration : 18 , Emmigration : 11.
+2 City : Bludenz, Immigration : 18, Emmigration : 11 .
+3 What is the Immigration in Bludenz?	18	2
+1 City : Feldkirch, Immigration : 15 , Emmigration : 13.
+2 City : Villach, Immigration : 13, Emmigration : 19 .
+3 What is the Emmigration in Feldkirch?	13	1
+1 City : Salzburg, Immigration : 16 , Emmigration : 12.
+2 City : Wien, Immigration : 11, Emmigration : 17 .
+3 What is the Emmigration in Salzburg?	12	1
+1 City : Villach, Immigration : 19 , Emmigration : 17.
+2 City : Linz, Immigration : 11, Emmigration : 11 .
+3 What is the Immigration in Villach?	19	1
+1 City : Linz, Immigration : 15 , Emmigration : 14.
+2 City : Salzburg, Immigration : 17, Emmigration : 17 .
+3 What is the Emmigration in Salzburg?	17	2
+1 City : Linz, Immigration : 19 , Emmigration : 19.
+2 City : Klagenfurt, Immigration : 13, Emmigration : 19 .
+3 What is the Emmigration in Linz?	19	1
+1 City : Graz, Immigration : 19 , Emmigration : 15.
+2 City : Wien, Immigration : 17, Emmigration : 10 .
+3 What is the Emmigration in Graz?	15	1
+1 City : Bludenz, Immigration : 13 , Emmigration : 15.
+2 City : Graz, Immigration : 16, Emmigration : 16 .
+3 What is the Immigration in Graz?	16	2
+1 City : Bludenz, Immigration : 12 , Emmigration : 12.
+2 City : Wien, Immigration : 13, Emmigration : 11 .
+3 What is the Emmigration in Wien?	11	2
+1 City : Linz, Immigration : 13 , Emmigration : 13.
+2 City : Salzburg, Immigration : 15, Emmigration : 11 .
+3 What is the Immigration in Linz?	13	1
+1 City : Villach, Immigration : 19 , Emmigration : 14.
+2 City : Linz, Immigration : 11, Emmigration : 18 .
+3 What is the Immigration in Linz?	11	2
+1 City : Graz, Immigration : 17 , Emmigration : 10.
+2 City : Bludenz, Immigration : 14, Emmigration : 17 .
+3 What is the Immigration in Graz?	17	1
+1 City : Salzburg, Immigration : 13 , Emmigration : 11.
+2 City : Feldkirch, Immigration : 16, Emmigration : 10 .
+3 What is the Immigration in Salzburg?	13	1
+1 City : Salzburg, Immigration : 17 , Emmigration : 18.
+2 City : Villach, Immigration : 16, Emmigration : 14 .
+3 What is the Emmigration in Salzburg?	18	1
+1 City : Villach, Immigration : 11 , Emmigration : 10.
+2 City : Wien, Immigration : 10, Emmigration : 12 .
+3 What is the Immigration in Villach?	11	1
+1 City : Klagenfurt, Immigration : 12 , Emmigration : 13.
+2 City : Villach, Immigration : 11, Emmigration : 13 .
+3 What is the Immigration in Klagenfurt?	12	1
+1 City : Salzburg, Immigration : 11 , Emmigration : 11.
+2 City : Bludenz, Immigration : 12, Emmigration : 11 .
+3 What is the Immigration in Bludenz?	12	2
+1 City : Wien, Immigration : 19 , Emmigration : 13.
+2 City : Graz, Immigration : 12, Emmigration : 16 .
+3 What is the Immigration in Wien?	19	1
+1 City : Klagenfurt, Immigration : 11 , Emmigration : 14.
+2 City : Villach, Immigration : 19, Emmigration : 18 .
+3 What is the Emmigration in Villach?	18	2
+1 City : Bludenz, Immigration : 17 , Emmigration : 13.
+2 City : Wien, Immigration : 18, Emmigration : 19 .
+3 What is the Immigration in Wien?	18	2
+1 City : Villach, Immigration : 17 , Emmigration : 13.
+2 City : Graz, Immigration : 18, Emmigration : 18 .
+3 What is the Emmigration in Graz?	18	2
+1 City : Feldkirch, Immigration : 19 , Emmigration : 12.
+2 City : Villach, Immigration : 16, Emmigration : 12 .
+3 What is the Immigration in Villach?	16	2
+1 City : Klagenfurt, Immigration : 19 , Emmigration : 15.
+2 City : Salzburg, Immigration : 10, Emmigration : 16 .
+3 What is the Emmigration in Salzburg?	16	2
+1 City : Bludenz, Immigration : 14 , Emmigration : 11.
+2 City : Villach, Immigration : 14, Emmigration : 11 .
+3 What is the Emmigration in Villach?	11	2
+1 City : Linz, Immigration : 16 , Emmigration : 16.
+2 City : Salzburg, Immigration : 14, Emmigration : 12 .
+3 What is the Emmigration in Linz?	16	1
+1 City : Feldkirch, Immigration : 14 , Emmigration : 16.
+2 City : Graz, Immigration : 11, Emmigration : 18 .
+3 What is the Immigration in Feldkirch?	14	1
+1 City : Wien, Immigration : 10 , Emmigration : 17.
+2 City : Salzburg, Immigration : 12, Emmigration : 19 .
+3 What is the Immigration in Salzburg?	12	2
+1 City : Linz, Immigration : 11 , Emmigration : 14.
+2 City : Klagenfurt, Immigration : 11, Emmigration : 11 .
+3 What is the Immigration in Linz?	11	1
+1 City : Wien, Immigration : 19 , Emmigration : 16.
+2 City : Bludenz, Immigration : 14, Emmigration : 15 .
+3 What is the Emmigration in Wien?	16	1
+1 City : Feldkirch, Immigration : 12 , Emmigration : 14.
+2 City : Bludenz, Immigration : 11, Emmigration : 15 .
+3 What is the Emmigration in Bludenz?	15	2
+1 City : Graz, Immigration : 12 , Emmigration : 12.
+2 City : Wien, Immigration : 18, Emmigration : 13 .
+3 What is the Emmigration in Wien?	13	2
+1 City : Bludenz, Immigration : 17 , Emmigration : 12.
+2 City : Feldkirch, Immigration : 14, Emmigration : 16 .
+3 What is the Emmigration in Feldkirch?	16	2
+1 City : Feldkirch, Immigration : 11 , Emmigration : 10.
+2 City : Salzburg, Immigration : 10, Emmigration : 18 .
+3 What is the Immigration in Feldkirch?	11	1
+1 City : Feldkirch, Immigration : 16 , Emmigration : 19.
+2 City : Linz, Immigration : 10, Emmigration : 12 .
+3 What is the Emmigration in Linz?	12	2
+1 City : Villach, Immigration : 10 , Emmigration : 12.
+2 City : Feldkirch, Immigration : 16, Emmigration : 12 .
+3 What is the Immigration in Villach?	10	1
+1 City : Feldkirch, Immigration : 14 , Emmigration : 16.
+2 City : Graz, Immigration : 17, Emmigration : 11 .
+3 What is the Immigration in Graz?	17	2
+1 City : Villach, Immigration : 14 , Emmigration : 15.
+2 City : Bludenz, Immigration : 11, Emmigration : 13 .
+3 What is the Emmigration in Villach?	15	1
+1 City : Bludenz, Immigration : 17 , Emmigration : 11.
+2 City : Klagenfurt, Immigration : 10, Emmigration : 14 .
+3 What is the Immigration in Bludenz?	17	1
+1 City : Feldkirch, Immigration : 12 , Emmigration : 17.
+2 City : Klagenfurt, Immigration : 17, Emmigration : 19 .
+3 What is the Emmigration in Klagenfurt?	19	2
+1 City : Graz, Immigration : 12 , Emmigration : 19.
+2 City : Salzburg, Immigration : 12, Emmigration : 10 .
+3 What is the Emmigration in Salzburg?	10	2
+1 City : Linz, Immigration : 13 , Emmigration : 15.
+2 City : Graz, Immigration : 13, Emmigration : 17 .
+3 What is the Immigration in Graz?	13	2
+1 City : Graz, Immigration : 12 , Emmigration : 13.
+2 City : Klagenfurt, Immigration : 19, Emmigration : 11 .
+3 What is the Emmigration in Graz?	13	1
+1 City : Villach, Immigration : 10 , Emmigration : 13.
+2 City : Wien, Immigration : 17, Emmigration : 11 .
+3 What is the Emmigration in Villach?	13	1
+1 City : Klagenfurt, Immigration : 12 , Emmigration : 19.
+2 City : Salzburg, Immigration : 16, Emmigration : 15 .
+3 What is the Immigration in Salzburg?	16	2
+1 City : Feldkirch, Immigration : 19 , Emmigration : 17.
+2 City : Villach, Immigration : 11, Emmigration : 16 .
+3 What is the Immigration in Feldkirch?	19	1
+1 City : Linz, Immigration : 12 , Emmigration : 19.
+2 City : Graz, Immigration : 11, Emmigration : 16 .
+3 What is the Emmigration in Linz?	19	1
+1 City : Villach, Immigration : 11 , Emmigration : 18.
+2 City : Klagenfurt, Immigration : 14, Emmigration : 10 .
+3 What is the Emmigration in Villach?	18	1
+1 City : Salzburg, Immigration : 10 , Emmigration : 10.
+2 City : Bludenz, Immigration : 12, Emmigration : 15 .
+3 What is the Emmigration in Bludenz?	15	2
+1 City : Feldkirch, Immigration : 18 , Emmigration : 19.
+2 City : Linz, Immigration : 13, Emmigration : 17 .
+3 What is the Emmigration in Feldkirch?	19	1
+1 City : Linz, Immigration : 11 , Emmigration : 19.
+2 City : Salzburg, Immigration : 18, Emmigration : 16 .
+3 What is the Emmigration in Salzburg?	16	2
+1 City : Villach, Immigration : 18 , Emmigration : 19.
+2 City : Wien, Immigration : 12, Emmigration : 18 .
+3 What is the Immigration in Wien?	12	2
+1 City : Bludenz, Immigration : 14 , Emmigration : 12.
+2 City : Feldkirch, Immigration : 12, Emmigration : 10 .
+3 What is the Emmigration in Feldkirch?	10	2
+1 City : Feldkirch, Immigration : 13 , Emmigration : 17.
+2 City : Klagenfurt, Immigration : 14, Emmigration : 12 .
+3 What is the Immigration in Feldkirch?	13	1
+1 City : Graz, Immigration : 19 , Emmigration : 19.
+2 City : Bludenz, Immigration : 13, Emmigration : 18 .
+3 What is the Emmigration in Bludenz?	18	2
+1 City : Feldkirch, Immigration : 11 , Emmigration : 17.
+2 City : Salzburg, Immigration : 13, Emmigration : 17 .
+3 What is the Immigration in Salzburg?	13	2
+1 City : Bludenz, Immigration : 18 , Emmigration : 17.
+2 City : Feldkirch, Immigration : 16, Emmigration : 11 .
+3 What is the Immigration in Bludenz?	18	1
+1 City : Linz, Immigration : 19 , Emmigration : 17.
+2 City : Wien, Immigration : 13, Emmigration : 12 .
+3 What is the Emmigration in Linz?	17	1
+1 City : Feldkirch, Immigration : 10 , Emmigration : 19.
+2 City : Wien, Immigration : 11, Emmigration : 14 .
+3 What is the Immigration in Wien?	11	2
+1 City : Salzburg, Immigration : 15 , Emmigration : 17.
+2 City : Feldkirch, Immigration : 17, Emmigration : 18 .
+3 What is the Immigration in Salzburg?	15	1
+1 City : Salzburg, Immigration : 19 , Emmigration : 10.
+2 City : Klagenfurt, Immigration : 13, Emmigration : 13 .
+3 What is the Emmigration in Klagenfurt?	13	2
+1 City : Salzburg, Immigration : 18 , Emmigration : 18.
+2 City : Graz, Immigration : 18, Emmigration : 10 .
+3 What is the Immigration in Graz?	18	2
+1 City : Bludenz, Immigration : 18 , Emmigration : 16.
+2 City : Linz, Immigration : 14, Emmigration : 15 .
+3 What is the Emmigration in Bludenz?	16	1
+1 City : Salzburg, Immigration : 14 , Emmigration : 17.
+2 City : Bludenz, Immigration : 19, Emmigration : 12 .
+3 What is the Emmigration in Bludenz?	12	2
+1 City : Wien, Immigration : 18 , Emmigration : 13.
+2 City : Klagenfurt, Immigration : 17, Emmigration : 11 .
+3 What is the Immigration in Klagenfurt?	17	2
+1 City : Bludenz, Immigration : 11 , Emmigration : 19.
+2 City : Salzburg, Immigration : 15, Emmigration : 13 .
+3 What is the Emmigration in Salzburg?	13	2
+1 City : Villach, Immigration : 12 , Emmigration : 17.
+2 City : Linz, Immigration : 19, Emmigration : 14 .
+3 What is the Immigration in Linz?	19	2
+1 City : Wien, Immigration : 18 , Emmigration : 12.
+2 City : Villach, Immigration : 12, Emmigration : 14 .
+3 What is the Emmigration in Villach?	14	2
+1 City : Wien, Immigration : 19 , Emmigration : 19.
+2 City : Klagenfurt, Immigration : 15, Emmigration : 17 .
+3 What is the Immigration in Wien?	19	1
+1 City : Graz, Immigration : 16 , Emmigration : 14.
+2 City : Salzburg, Immigration : 19, Emmigration : 18 .
+3 What is the Emmigration in Salzburg?	18	2
+1 City : Klagenfurt, Immigration : 14 , Emmigration : 11.
+2 City : Bludenz, Immigration : 10, Emmigration : 11 .
+3 What is the Emmigration in Klagenfurt?	11	1
+1 City : Feldkirch, Immigration : 17 , Emmigration : 16.
+2 City : Klagenfurt, Immigration : 10, Emmigration : 17 .
+3 What is the Emmigration in Klagenfurt?	17	2
+1 City : Graz, Immigration : 17 , Emmigration : 13.
+2 City : Linz, Immigration : 16, Emmigration : 14 .
+3 What is the Immigration in Linz?	16	2
+1 City : Klagenfurt, Immigration : 19 , Emmigration : 10.
+2 City : Bludenz, Immigration : 15, Emmigration : 18 .
+3 What is the Immigration in Bludenz?	15	2
+1 City : Graz, Immigration : 11 , Emmigration : 15.
+2 City : Wien, Immigration : 17, Emmigration : 17 .
+3 What is the Immigration in Graz?	11	1
+1 City : Graz, Immigration : 12 , Emmigration : 17.
+2 City : Villach, Immigration : 15, Emmigration : 19 .
+3 What is the Immigration in Villach?	15	2
+1 City : Salzburg, Immigration : 11 , Emmigration : 11.
+2 City : Linz, Immigration : 13, Emmigration : 13 .
+3 What is the Emmigration in Salzburg?	11	1
+1 City : Bludenz, Immigration : 16 , Emmigration : 11.
+2 City : Wien, Immigration : 17, Emmigration : 13 .
+3 What is the Immigration in Wien?	17	2
+1 City : Wien, Immigration : 19 , Emmigration : 13.
+2 City : Linz, Immigration : 11, Emmigration : 16 .
+3 What is the Emmigration in Linz?	16	2
+1 City : Villach, Immigration : 12 , Emmigration : 19.
+2 City : Bludenz, Immigration : 16, Emmigration : 14 .
+3 What is the Emmigration in Bludenz?	14	2
+1 City : Linz, Immigration : 13 , Emmigration : 13.
+2 City : Klagenfurt, Immigration : 12, Emmigration : 12 .
+3 What is the Immigration in Klagenfurt?	12	2
+1 City : Wien, Immigration : 10 , Emmigration : 11.
+2 City : Graz, Immigration : 10, Emmigration : 16 .
+3 What is the Emmigration in Wien?	11	1
+1 City : Villach, Immigration : 18 , Emmigration : 12.
+2 City : Feldkirch, Immigration : 10, Emmigration : 11 .
+3 What is the Immigration in Feldkirch?	10	2
+1 City : Klagenfurt, Immigration : 11 , Emmigration : 13.
+2 City : Graz, Immigration : 17, Emmigration : 13 .
+3 What is the Emmigration in Graz?	13	2
+1 City : Villach, Immigration : 16 , Emmigration : 17.
+2 City : Graz, Immigration : 17, Emmigration : 15 .
+3 What is the Emmigration in Villach?	17	1
+1 City : Linz, Immigration : 19 , Emmigration : 19.
+2 City : Klagenfurt, Immigration : 12, Emmigration : 16 .
+3 What is the Immigration in Linz?	19	1
+1 City : Graz, Immigration : 15 , Emmigration : 18.
+2 City : Villach, Immigration : 10, Emmigration : 19 .
+3 What is the Emmigration in Villach?	19	2
+1 City : Klagenfurt, Immigration : 19 , Emmigration : 12.
+2 City : Wien, Immigration : 18, Emmigration : 18 .
+3 What is the Immigration in Klagenfurt?	19	1
+1 City : Graz, Immigration : 14 , Emmigration : 17.
+2 City : Salzburg, Immigration : 10, Emmigration : 19 .
+3 What is the Emmigration in Graz?	17	1
+1 City : Graz, Immigration : 17 , Emmigration : 19.
+2 City : Villach, Immigration : 13, Emmigration : 15 .
+3 What is the Emmigration in Villach?	15	2
+1 City : Bludenz, Immigration : 10 , Emmigration : 11.
+2 City : Klagenfurt, Immigration : 16, Emmigration : 15 .
+3 What is the Emmigration in Klagenfurt?	15	2
+1 City : Klagenfurt, Immigration : 10 , Emmigration : 16.
+2 City : Villach, Immigration : 18, Emmigration : 14 .
+3 What is the Emmigration in Villach?	14	2
+1 City : Linz, Immigration : 12 , Emmigration : 17.
+2 City : Graz, Immigration : 13, Emmigration : 16 .
+3 What is the Emmigration in Graz?	16	2
+1 City : Bludenz, Immigration : 11 , Emmigration : 17.
+2 City : Klagenfurt, Immigration : 13, Emmigration : 18 .
+3 What is the Immigration in Klagenfurt?	13	2
+1 City : Salzburg, Immigration : 10 , Emmigration : 10.
+2 City : Villach, Immigration : 12, Emmigration : 14 .
+3 What is the Emmigration in Villach?	14	2
+1 City : Graz, Immigration : 18 , Emmigration : 10.
+2 City : Klagenfurt, Immigration : 16, Emmigration : 10 .
+3 What is the Immigration in Graz?	18	1
+1 City : Bludenz, Immigration : 14 , Emmigration : 11.
+2 City : Feldkirch, Immigration : 16, Emmigration : 16 .
+3 What is the Immigration in Bludenz?	14	1
+1 City : Graz, Immigration : 12 , Emmigration : 18.
+2 City : Linz, Immigration : 10, Emmigration : 13 .
+3 What is the Emmigration in Graz?	18	1
+1 City : Villach, Immigration : 16 , Emmigration : 11.
+2 City : Wien, Immigration : 10, Emmigration : 11 .
+3 What is the Immigration in Villach?	16	1
+1 City : Klagenfurt, Immigration : 12 , Emmigration : 10.
+2 City : Wien, Immigration : 18, Emmigration : 15 .
+3 What is the Emmigration in Klagenfurt?	10	1
+1 City : Klagenfurt, Immigration : 14 , Emmigration : 17.
+2 City : Wien, Immigration : 10, Emmigration : 12 .
+3 What is the Immigration in Wien?	10	2
+1 City : Linz, Immigration : 12 , Emmigration : 14.
+2 City : Salzburg, Immigration : 10, Emmigration : 17 .
+3 What is the Emmigration in Linz?	14	1
+1 City : Bludenz, Immigration : 10 , Emmigration : 19.
+2 City : Graz, Immigration : 17, Emmigration : 13 .
+3 What is the Emmigration in Bludenz?	19	1
+1 City : Feldkirch, Immigration : 13 , Emmigration : 13.
+2 City : Linz, Immigration : 14, Emmigration : 11 .
+3 What is the Immigration in Linz?	14	2
+1 City : Villach, Immigration : 13 , Emmigration : 17.
+2 City : Linz, Immigration : 18, Emmigration : 19 .
+3 What is the Immigration in Villach?	13	1
+1 City : Feldkirch, Immigration : 14 , Emmigration : 19.
+2 City : Bludenz, Immigration : 12, Emmigration : 16 .
+3 What is the Immigration in Feldkirch?	14	1
+1 City : Graz, Immigration : 18 , Emmigration : 12.
+2 City : Bludenz, Immigration : 11, Emmigration : 15 .
+3 What is the Immigration in Bludenz?	11	2
+1 City : Klagenfurt, Immigration : 17 , Emmigration : 18.
+2 City : Bludenz, Immigration : 11, Emmigration : 12 .
+3 What is the Emmigration in Bludenz?	12	2
+1 City : Graz, Immigration : 18 , Emmigration : 15.
+2 City : Linz, Immigration : 13, Emmigration : 12 .
+3 What is the Immigration in Graz?	18	1
+1 City : Linz, Immigration : 13 , Emmigration : 14.
+2 City : Feldkirch, Immigration : 19, Emmigration : 12 .
+3 What is the Emmigration in Linz?	14	1
+1 City : Salzburg, Immigration : 11 , Emmigration : 12.
+2 City : Linz, Immigration : 14, Emmigration : 17 .
+3 What is the Immigration in Linz?	14	2
+1 City : Graz, Immigration : 18 , Emmigration : 14.
+2 City : Feldkirch, Immigration : 13, Emmigration : 16 .
+3 What is the Emmigration in Graz?	14	1
+1 City : Linz, Immigration : 18 , Emmigration : 15.
+2 City : Wien, Immigration : 11, Emmigration : 19 .
+3 What is the Emmigration in Wien?	19	2
+1 City : Graz, Immigration : 11 , Emmigration : 18.
+2 City : Salzburg, Immigration : 19, Emmigration : 13 .
+3 What is the Immigration in Salzburg?	19	2
+1 City : Villach, Immigration : 13 , Emmigration : 12.
+2 City : Feldkirch, Immigration : 18, Emmigration : 18 .
+3 What is the Immigration in Feldkirch?	18	2
+1 City : Bludenz, Immigration : 16 , Emmigration : 18.
+2 City : Feldkirch, Immigration : 11, Emmigration : 19 .
+3 What is the Emmigration in Feldkirch?	19	2
+1 City : Bludenz, Immigration : 15 , Emmigration : 12.
+2 City : Feldkirch, Immigration : 10, Emmigration : 14 .
+3 What is the Emmigration in Feldkirch?	14	2
+1 City : Villach, Immigration : 12 , Emmigration : 12.
+2 City : Salzburg, Immigration : 18, Emmigration : 17 .
+3 What is the Emmigration in Villach?	12	1
+1 City : Villach, Immigration : 13 , Emmigration : 13.
+2 City : Feldkirch, Immigration : 12, Emmigration : 13 .
+3 What is the Immigration in Villach?	13	1
+1 City : Salzburg, Immigration : 12 , Emmigration : 12.
+2 City : Bludenz, Immigration : 14, Emmigration : 14 .
+3 What is the Emmigration in Bludenz?	14	2
+1 City : Klagenfurt, Immigration : 19 , Emmigration : 17.
+2 City : Wien, Immigration : 18, Emmigration : 13 .
+3 What is the Emmigration in Wien?	13	2
+1 City : Bludenz, Immigration : 13 , Emmigration : 10.
+2 City : Villach, Immigration : 17, Emmigration : 15 .
+3 What is the Immigration in Villach?	17	2
+1 City : Wien, Immigration : 10 , Emmigration : 13.
+2 City : Bludenz, Immigration : 18, Emmigration : 18 .
+3 What is the Emmigration in Wien?	13	1
+1 City : Villach, Immigration : 19 , Emmigration : 14.
+2 City : Graz, Immigration : 13, Emmigration : 14 .
+3 What is the Immigration in Graz?	13	2
+1 City : Villach, Immigration : 19 , Emmigration : 12.
+2 City : Bludenz, Immigration : 12, Emmigration : 19 .
+3 What is the Emmigration in Villach?	12	1
+1 City : Graz, Immigration : 14 , Emmigration : 10.
+2 City : Feldkirch, Immigration : 13, Emmigration : 17 .
+3 What is the Emmigration in Feldkirch?	17	2
+1 City : Wien, Immigration : 14 , Emmigration : 18.
+2 City : Linz, Immigration : 15, Emmigration : 18 .
+3 What is the Immigration in Linz?	15	2
+1 City : Graz, Immigration : 14 , Emmigration : 15.
+2 City : Villach, Immigration : 15, Emmigration : 18 .
+3 What is the Emmigration in Graz?	15	1
+1 City : Salzburg, Immigration : 17 , Emmigration : 14.
+2 City : Graz, Immigration : 14, Emmigration : 11 .
+3 What is the Immigration in Graz?	14	2
+1 City : Feldkirch, Immigration : 14 , Emmigration : 17.
+2 City : Linz, Immigration : 13, Emmigration : 16 .
+3 What is the Immigration in Linz?	13	2
+1 City : Villach, Immigration : 19 , Emmigration : 12.
+2 City : Klagenfurt, Immigration : 18, Emmigration : 15 .
+3 What is the Immigration in Klagenfurt?	18	2
+1 City : Graz, Immigration : 14 , Emmigration : 10.
+2 City : Wien, Immigration : 12, Emmigration : 10 .
+3 What is the Immigration in Wien?	12	2
+1 City : Linz, Immigration : 15 , Emmigration : 14.
+2 City : Salzburg, Immigration : 19, Emmigration : 15 .
+3 What is the Emmigration in Salzburg?	15	2
+1 City : Feldkirch, Immigration : 10 , Emmigration : 18.
+2 City : Bludenz, Immigration : 16, Emmigration : 11 .
+3 What is the Immigration in Feldkirch?	10	1
+1 City : Klagenfurt, Immigration : 19 , Emmigration : 17.
+2 City : Graz, Immigration : 12, Emmigration : 12 .
+3 What is the Immigration in Graz?	12	2
+1 City : Salzburg, Immigration : 13 , Emmigration : 15.
+2 City : Graz, Immigration : 19, Emmigration : 19 .
+3 What is the Immigration in Graz?	19	2
+1 City : Salzburg, Immigration : 17 , Emmigration : 11.
+2 City : Bludenz, Immigration : 19, Emmigration : 15 .
+3 What is the Immigration in Bludenz?	19	2
+1 City : Villach, Immigration : 13 , Emmigration : 16.
+2 City : Salzburg, Immigration : 10, Emmigration : 19 .
+3 What is the Emmigration in Villach?	16	1
+1 City : Linz, Immigration : 19 , Emmigration : 12.
+2 City : Villach, Immigration : 12, Emmigration : 13 .
+3 What is the Immigration in Villach?	12	2
+1 City : Graz, Immigration : 13 , Emmigration : 19.
+2 City : Feldkirch, Immigration : 10, Emmigration : 14 .
+3 What is the Emmigration in Graz?	19	1
+1 City : Salzburg, Immigration : 19 , Emmigration : 19.
+2 City : Feldkirch, Immigration : 14, Emmigration : 10 .
+3 What is the Emmigration in Feldkirch?	10	2
+1 City : Salzburg, Immigration : 10 , Emmigration : 19.
+2 City : Linz, Immigration : 14, Emmigration : 13 .
+3 What is the Immigration in Salzburg?	10	1
+1 City : Wien, Immigration : 16 , Emmigration : 13.
+2 City : Feldkirch, Immigration : 13, Emmigration : 12 .
+3 What is the Emmigration in Wien?	13	1
+1 City : Bludenz, Immigration : 18 , Emmigration : 19.
+2 City : Graz, Immigration : 12, Emmigration : 14 .
+3 What is the Immigration in Graz?	12	2
+1 City : Feldkirch, Immigration : 13 , Emmigration : 13.
+2 City : Bludenz, Immigration : 15, Emmigration : 14 .
+3 What is the Emmigration in Feldkirch?	13	1
+1 City : Feldkirch, Immigration : 14 , Emmigration : 15.
+2 City : Klagenfurt, Immigration : 10, Emmigration : 18 .
+3 What is the Immigration in Klagenfurt?	10	2
+1 City : Bludenz, Immigration : 16 , Emmigration : 13.
+2 City : Klagenfurt, Immigration : 13, Emmigration : 15 .
+3 What is the Immigration in Bludenz?	16	1
+1 City : Villach, Immigration : 17 , Emmigration : 12.
+2 City : Bludenz, Immigration : 10, Emmigration : 18 .
+3 What is the Immigration in Villach?	17	1
+1 City : Linz, Immigration : 16 , Emmigration : 19.
+2 City : Salzburg, Immigration : 19, Emmigration : 10 .
+3 What is the Immigration in Salzburg?	19	2
+1 City : Villach, Immigration : 18 , Emmigration : 16.
+2 City : Klagenfurt, Immigration : 17, Emmigration : 12 .
+3 What is the Emmigration in Villach?	16	1
+1 City : Klagenfurt, Immigration : 11 , Emmigration : 12.
+2 City : Linz, Immigration : 13, Emmigration : 18 .
+3 What is the Emmigration in Linz?	18	2
+1 City : Salzburg, Immigration : 17 , Emmigration : 18.
+2 City : Linz, Immigration : 11, Emmigration : 12 .
+3 What is the Emmigration in Salzburg?	18	1
+1 City : Klagenfurt, Immigration : 15 , Emmigration : 12.
+2 City : Villach, Immigration : 15, Emmigration : 19 .
+3 What is the Immigration in Klagenfurt?	15	1
+1 City : Linz, Immigration : 10 , Emmigration : 17.
+2 City : Graz, Immigration : 18, Emmigration : 16 .
+3 What is the Immigration in Graz?	18	2
+1 City : Linz, Immigration : 15 , Emmigration : 13.
+2 City : Salzburg, Immigration : 16, Emmigration : 17 .
+3 What is the Emmigration in Salzburg?	17	2
+1 City : Villach, Immigration : 12 , Emmigration : 13.
+2 City : Klagenfurt, Immigration : 12, Emmigration : 15 .
+3 What is the Immigration in Klagenfurt?	12	2
+1 City : Wien, Immigration : 13 , Emmigration : 13.
+2 City : Klagenfurt, Immigration : 14, Emmigration : 15 .
+3 What is the Immigration in Wien?	13	1
+1 City : Graz, Immigration : 12 , Emmigration : 11.
+2 City : Klagenfurt, Immigration : 15, Emmigration : 17 .
+3 What is the Emmigration in Graz?	11	1
+1 City : Klagenfurt, Immigration : 15 , Emmigration : 15.
+2 City : Linz, Immigration : 14, Emmigration : 16 .
+3 What is the Immigration in Linz?	14	2
+1 City : Feldkirch, Immigration : 16 , Emmigration : 11.
+2 City : Linz, Immigration : 11, Emmigration : 11 .
+3 What is the Emmigration in Linz?	11	2
+1 City : Linz, Immigration : 13 , Emmigration : 12.
+2 City : Salzburg, Immigration : 19, Emmigration : 17 .
+3 What is the Immigration in Salzburg?	19	2
+1 City : Feldkirch, Immigration : 10 , Emmigration : 17.
+2 City : Salzburg, Immigration : 19, Emmigration : 19 .
+3 What is the Emmigration in Feldkirch?	17	1
+1 City : Bludenz, Immigration : 17 , Emmigration : 16.
+2 City : Klagenfurt, Immigration : 19, Emmigration : 16 .
+3 What is the Emmigration in Klagenfurt?	16	2
+1 City : Wien, Immigration : 19 , Emmigration : 13.
+2 City : Linz, Immigration : 17, Emmigration : 10 .
+3 What is the Emmigration in Wien?	13	1
+1 City : Klagenfurt, Immigration : 12 , Emmigration : 17.
+2 City : Feldkirch, Immigration : 17, Emmigration : 13 .
+3 What is the Immigration in Klagenfurt?	12	1
+1 City : Villach, Immigration : 18 , Emmigration : 13.
+2 City : Graz, Immigration : 13, Emmigration : 10 .
+3 What is the Emmigration in Villach?	13	1
+1 City : Villach, Immigration : 18 , Emmigration : 18.
+2 City : Salzburg, Immigration : 11, Emmigration : 12 .
+3 What is the Emmigration in Villach?	18	1
+1 City : Feldkirch, Immigration : 17 , Emmigration : 16.
+2 City : Klagenfurt, Immigration : 10, Emmigration : 19 .
+3 What is the Immigration in Klagenfurt?	10	2
+1 City : Bludenz, Immigration : 16 , Emmigration : 18.
+2 City : Linz, Immigration : 12, Emmigration : 11 .
+3 What is the Emmigration in Bludenz?	18	1
+1 City : Salzburg, Immigration : 17 , Emmigration : 19.
+2 City : Wien, Immigration : 13, Emmigration : 15 .
+3 What is the Immigration in Wien?	13	2
+1 City : Wien, Immigration : 15 , Emmigration : 12.
+2 City : Salzburg, Immigration : 14, Emmigration : 14 .
+3 What is the Immigration in Wien?	15	1
+1 City : Linz, Immigration : 17 , Emmigration : 15.
+2 City : Graz, Immigration : 12, Emmigration : 10 .
+3 What is the Immigration in Graz?	12	2
+1 City : Salzburg, Immigration : 13 , Emmigration : 15.
+2 City : Klagenfurt, Immigration : 11, Emmigration : 11 .
+3 What is the Immigration in Salzburg?	13	1
+1 City : Wien, Immigration : 14 , Emmigration : 15.
+2 City : Linz, Immigration : 19, Emmigration : 13 .
+3 What is the Immigration in Wien?	14	1
+1 City : Villach, Immigration : 11 , Emmigration : 10.
+2 City : Klagenfurt, Immigration : 13, Emmigration : 12 .
+3 What is the Immigration in Klagenfurt?	13	2
+1 City : Villach, Immigration : 12 , Emmigration : 19.
+2 City : Salzburg, Immigration : 10, Emmigration : 17 .
+3 What is the Immigration in Salzburg?	10	2
+1 City : Klagenfurt, Immigration : 18 , Emmigration : 10.
+2 City : Bludenz, Immigration : 15, Emmigration : 11 .
+3 What is the Immigration in Bludenz?	15	2
+1 City : Wien, Immigration : 19 , Emmigration : 13.
+2 City : Feldkirch, Immigration : 10, Emmigration : 15 .
+3 What is the Immigration in Wien?	19	1
+1 City : Bludenz, Immigration : 10 , Emmigration : 13.
+2 City : Klagenfurt, Immigration : 10, Emmigration : 11 .
+3 What is the Emmigration in Bludenz?	13	1
+1 City : Klagenfurt, Immigration : 13 , Emmigration : 13.
+2 City : Wien, Immigration : 11, Emmigration : 17 .
+3 What is the Emmigration in Klagenfurt?	13	1
+1 City : Salzburg, Immigration : 16 , Emmigration : 17.
+2 City : Wien, Immigration : 13, Emmigration : 11 .
+3 What is the Immigration in Wien?	13	2
+1 City : Salzburg, Immigration : 16 , Emmigration : 16.
+2 City : Wien, Immigration : 13, Emmigration : 10 .
+3 What is the Emmigration in Salzburg?	16	1
+1 City : Villach, Immigration : 11 , Emmigration : 13.
+2 City : Wien, Immigration : 19, Emmigration : 14 .
+3 What is the Emmigration in Wien?	14	2
+1 City : Feldkirch, Immigration : 15 , Emmigration : 10.
+2 City : Wien, Immigration : 11, Emmigration : 15 .
+3 What is the Immigration in Wien?	11	2
+1 City : Wien, Immigration : 18 , Emmigration : 13.
+2 City : Feldkirch, Immigration : 18, Emmigration : 16 .
+3 What is the Immigration in Wien?	18	1
+1 City : Wien, Immigration : 14 , Emmigration : 19.
+2 City : Salzburg, Immigration : 17, Emmigration : 18 .
+3 What is the Immigration in Wien?	14	1
+1 City : Feldkirch, Immigration : 11 , Emmigration : 19.
+2 City : Linz, Immigration : 15, Emmigration : 16 .
+3 What is the Emmigration in Feldkirch?	19	1
+1 City : Bludenz, Immigration : 12 , Emmigration : 11.
+2 City : Linz, Immigration : 16, Emmigration : 19 .
+3 What is the Immigration in Linz?	16	2
+1 City : Bludenz, Immigration : 11 , Emmigration : 14.
+2 City : Villach, Immigration : 15, Emmigration : 11 .
+3 What is the Immigration in Bludenz?	11	1
+1 City : Villach, Immigration : 18 , Emmigration : 19.
+2 City : Graz, Immigration : 19, Emmigration : 18 .
+3 What is the Immigration in Villach?	18	1
+1 City : Feldkirch, Immigration : 18 , Emmigration : 18.
+2 City : Wien, Immigration : 13, Emmigration : 19 .
+3 What is the Emmigration in Feldkirch?	18	1
+1 City : Villach, Immigration : 11 , Emmigration : 17.
+2 City : Salzburg, Immigration : 16, Emmigration : 14 .
+3 What is the Emmigration in Villach?	17	1
+1 City : Bludenz, Immigration : 11 , Emmigration : 13.
+2 City : Feldkirch, Immigration : 10, Emmigration : 11 .
+3 What is the Immigration in Bludenz?	11	1
+1 City : Klagenfurt, Immigration : 19 , Emmigration : 10.
+2 City : Salzburg, Immigration : 12, Emmigration : 10 .
+3 What is the Emmigration in Klagenfurt?	10	1
+1 City : Wien, Immigration : 18 , Emmigration : 17.
+2 City : Graz, Immigration : 19, Emmigration : 13 .
+3 What is the Emmigration in Wien?	17	1
+1 City : Villach, Immigration : 11 , Emmigration : 10.
+2 City : Bludenz, Immigration : 13, Emmigration : 10 .
+3 What is the Emmigration in Villach?	10	1
+1 City : Villach, Immigration : 19 , Emmigration : 10.
+2 City : Wien, Immigration : 15, Emmigration : 19 .
+3 What is the Emmigration in Wien?	19	2
+1 City : Linz, Immigration : 17 , Emmigration : 14.
+2 City : Bludenz, Immigration : 18, Emmigration : 11 .
+3 What is the Immigration in Bludenz?	18	2
+1 City : Klagenfurt, Immigration : 19 , Emmigration : 13.
+2 City : Villach, Immigration : 10, Emmigration : 11 .
+3 What is the Emmigration in Villach?	11	2
+1 City : Villach, Immigration : 13 , Emmigration : 10.
+2 City : Bludenz, Immigration : 12, Emmigration : 16 .
+3 What is the Emmigration in Bludenz?	16	2
+1 City : Linz, Immigration : 12 , Emmigration : 14.
+2 City : Klagenfurt, Immigration : 15, Emmigration : 12 .
+3 What is the Emmigration in Linz?	14	1
+1 City : Klagenfurt, Immigration : 11 , Emmigration : 12.
+2 City : Villach, Immigration : 15, Emmigration : 12 .
+3 What is the Immigration in Villach?	15	2
+1 City : Linz, Immigration : 15 , Emmigration : 12.
+2 City : Graz, Immigration : 15, Emmigration : 11 .
+3 What is the Emmigration in Graz?	11	2
+1 City : Villach, Immigration : 18 , Emmigration : 10.
+2 City : Klagenfurt, Immigration : 10, Emmigration : 14 .
+3 What is the Emmigration in Villach?	10	1
+1 City : Klagenfurt, Immigration : 18 , Emmigration : 16.
+2 City : Linz, Immigration : 12, Emmigration : 19 .
+3 What is the Emmigration in Linz?	19	2
+1 City : Linz, Immigration : 16 , Emmigration : 13.
+2 City : Bludenz, Immigration : 10, Emmigration : 14 .
+3 What is the Immigration in Bludenz?	10	2
+1 City : Klagenfurt, Immigration : 14 , Emmigration : 19.
+2 City : Feldkirch, Immigration : 13, Emmigration : 13 .
+3 What is the Immigration in Klagenfurt?	14	1
+1 City : Bludenz, Immigration : 11 , Emmigration : 14.
+2 City : Salzburg, Immigration : 12, Emmigration : 13 .
+3 What is the Emmigration in Bludenz?	14	1
+1 City : Salzburg, Immigration : 13 , Emmigration : 12.
+2 City : Klagenfurt, Immigration : 18, Emmigration : 18 .
+3 What is the Immigration in Salzburg?	13	1
+1 City : Wien, Immigration : 11 , Emmigration : 15.
+2 City : Bludenz, Immigration : 16, Emmigration : 13 .
+3 What is the Immigration in Wien?	11	1
+1 City : Bludenz, Immigration : 17 , Emmigration : 13.
+2 City : Salzburg, Immigration : 12, Emmigration : 18 .
+3 What is the Immigration in Bludenz?	17	1
+1 City : Graz, Immigration : 13 , Emmigration : 16.
+2 City : Salzburg, Immigration : 15, Emmigration : 15 .
+3 What is the Immigration in Salzburg?	15	2
+1 City : Villach, Immigration : 13 , Emmigration : 15.
+2 City : Wien, Immigration : 13, Emmigration : 11 .
+3 What is the Emmigration in Villach?	15	1
+1 City : Salzburg, Immigration : 14 , Emmigration : 13.
+2 City : Linz, Immigration : 18, Emmigration : 14 .
+3 What is the Immigration in Linz?	18	2
+1 City : Villach, Immigration : 12 , Emmigration : 12.
+2 City : Feldkirch, Immigration : 18, Emmigration : 16 .
+3 What is the Emmigration in Feldkirch?	16	2
+1 City : Linz, Immigration : 16 , Emmigration : 11.
+2 City : Villach, Immigration : 10, Emmigration : 11 .
+3 What is the Immigration in Linz?	16	1
+1 City : Salzburg, Immigration : 14 , Emmigration : 13.
+2 City : Klagenfurt, Immigration : 13, Emmigration : 12 .
+3 What is the Emmigration in Klagenfurt?	12	2
+1 City : Linz, Immigration : 13 , Emmigration : 19.
+2 City : Klagenfurt, Immigration : 12, Emmigration : 15 .
+3 What is the Immigration in Klagenfurt?	12	2
+1 City : Klagenfurt, Immigration : 18 , Emmigration : 12.
+2 City : Bludenz, Immigration : 15, Emmigration : 12 .
+3 What is the Emmigration in Bludenz?	12	2
+1 City : Linz, Immigration : 10 , Emmigration : 14.
+2 City : Bludenz, Immigration : 18, Emmigration : 14 .
+3 What is the Immigration in Bludenz?	18	2
+1 City : Bludenz, Immigration : 12 , Emmigration : 19.
+2 City : Wien, Immigration : 13, Emmigration : 12 .
+3 What is the Immigration in Wien?	13	2
+1 City : Graz, Immigration : 13 , Emmigration : 16.
+2 City : Feldkirch, Immigration : 14, Emmigration : 17 .
+3 What is the Immigration in Graz?	13	1
+1 City : Feldkirch, Immigration : 14 , Emmigration : 11.
+2 City : Linz, Immigration : 19, Emmigration : 15 .
+3 What is the Immigration in Linz?	19	2
+1 City : Wien, Immigration : 19 , Emmigration : 16.
+2 City : Bludenz, Immigration : 17, Emmigration : 18 .
+3 What is the Immigration in Wien?	19	1
+1 City : Wien, Immigration : 18 , Emmigration : 18.
+2 City : Graz, Immigration : 11, Emmigration : 11 .
+3 What is the Immigration in Wien?	18	1
+1 City : Graz, Immigration : 10 , Emmigration : 19.
+2 City : Bludenz, Immigration : 11, Emmigration : 14 .
+3 What is the Immigration in Bludenz?	11	2
+1 City : Bludenz, Immigration : 13 , Emmigration : 15.
+2 City : Villach, Immigration : 15, Emmigration : 12 .
+3 What is the Emmigration in Villach?	12	2
+1 City : Klagenfurt, Immigration : 19 , Emmigration : 16.
+2 City : Feldkirch, Immigration : 13, Emmigration : 15 .
+3 What is the Emmigration in Klagenfurt?	16	1
+1 City : Salzburg, Immigration : 14 , Emmigration : 10.
+2 City : Klagenfurt, Immigration : 17, Emmigration : 14 .
+3 What is the Immigration in Klagenfurt?	17	2
+1 City : Salzburg, Immigration : 17 , Emmigration : 12.
+2 City : Klagenfurt, Immigration : 13, Emmigration : 12 .
+3 What is the Emmigration in Salzburg?	12	1
+1 City : Villach, Immigration : 11 , Emmigration : 14.
+2 City : Linz, Immigration : 16, Emmigration : 16 .
+3 What is the Immigration in Villach?	11	1
+1 City : Graz, Immigration : 19 , Emmigration : 13.
+2 City : Linz, Immigration : 14, Emmigration : 18 .
+3 What is the Emmigration in Linz?	18	2
+1 City : Graz, Immigration : 15 , Emmigration : 18.
+2 City : Linz, Immigration : 11, Emmigration : 19 .
+3 What is the Emmigration in Linz?	19	2
+1 City : Graz, Immigration : 17 , Emmigration : 11.
+2 City : Villach, Immigration : 11, Emmigration : 10 .
+3 What is the Immigration in Graz?	17	1
+1 City : Graz, Immigration : 12 , Emmigration : 11.
+2 City : Wien, Immigration : 13, Emmigration : 16 .
+3 What is the Immigration in Wien?	13	2
+1 City : Linz, Immigration : 19 , Emmigration : 13.
+2 City : Feldkirch, Immigration : 15, Emmigration : 10 .
+3 What is the Emmigration in Feldkirch?	10	2
+1 City : Graz, Immigration : 17 , Emmigration : 11.
+2 City : Wien, Immigration : 17, Emmigration : 14 .
+3 What is the Emmigration in Graz?	11	1
+1 City : Graz, Immigration : 11 , Emmigration : 13.
+2 City : Linz, Immigration : 13, Emmigration : 11 .
+3 What is the Immigration in Graz?	11	1
+1 City : Salzburg, Immigration : 13 , Emmigration : 19.
+2 City : Feldkirch, Immigration : 14, Emmigration : 18 .
+3 What is the Immigration in Feldkirch?	14	2
+1 City : Bludenz, Immigration : 11 , Emmigration : 15.
+2 City : Linz, Immigration : 10, Emmigration : 10 .
+3 What is the Emmigration in Linz?	10	2
+1 City : Salzburg, Immigration : 14 , Emmigration : 18.
+2 City : Wien, Immigration : 12, Emmigration : 15 .
+3 What is the Immigration in Wien?	12	2
+1 City : Feldkirch, Immigration : 13 , Emmigration : 17.
+2 City : Linz, Immigration : 15, Emmigration : 13 .
+3 What is the Emmigration in Feldkirch?	17	1
+1 City : Wien, Immigration : 13 , Emmigration : 13.
+2 City : Salzburg, Immigration : 11, Emmigration : 14 .
+3 What is the Immigration in Wien?	13	1
+1 City : Graz, Immigration : 19 , Emmigration : 12.
+2 City : Klagenfurt, Immigration : 14, Emmigration : 12 .
+3 What is the Immigration in Graz?	19	1
+1 City : Feldkirch, Immigration : 18 , Emmigration : 14.
+2 City : Wien, Immigration : 12, Emmigration : 19 .
+3 What is the Emmigration in Wien?	19	2
+1 City : Villach, Immigration : 11 , Emmigration : 19.
+2 City : Salzburg, Immigration : 12, Emmigration : 12 .
+3 What is the Emmigration in Villach?	19	1
+1 City : Graz, Immigration : 13 , Emmigration : 18.
+2 City : Feldkirch, Immigration : 16, Emmigration : 18 .
+3 What is the Immigration in Graz?	13	1
+1 City : Bludenz, Immigration : 12 , Emmigration : 13.
+2 City : Wien, Immigration : 11, Emmigration : 14 .
+3 What is the Emmigration in Wien?	14	2
+1 City : Bludenz, Immigration : 10 , Emmigration : 16.
+2 City : Salzburg, Immigration : 10, Emmigration : 19 .
+3 What is the Emmigration in Salzburg?	19	2
+1 City : Bludenz, Immigration : 10 , Emmigration : 19.
+2 City : Feldkirch, Immigration : 19, Emmigration : 10 .
+3 What is the Emmigration in Bludenz?	19	1
+1 City : Wien, Immigration : 18 , Emmigration : 19.
+2 City : Salzburg, Immigration : 19, Emmigration : 15 .
+3 What is the Immigration in Salzburg?	19	2
+1 City : Linz, Immigration : 11 , Emmigration : 10.
+2 City : Villach, Immigration : 14, Emmigration : 10 .
+3 What is the Immigration in Villach?	14	2
+1 City : Linz, Immigration : 12 , Emmigration : 16.
+2 City : Klagenfurt, Immigration : 19, Emmigration : 11 .
+3 What is the Emmigration in Linz?	16	1
+1 City : Feldkirch, Immigration : 14 , Emmigration : 13.
+2 City : Bludenz, Immigration : 12, Emmigration : 12 .
+3 What is the Emmigration in Feldkirch?	13	1
+1 City : Wien, Immigration : 12 , Emmigration : 14.
+2 City : Villach, Immigration : 12, Emmigration : 14 .
+3 What is the Immigration in Villach?	12	2
+1 City : Salzburg, Immigration : 11 , Emmigration : 10.
+2 City : Graz, Immigration : 11, Emmigration : 19 .
+3 What is the Immigration in Graz?	11	2
+1 City : Graz, Immigration : 15 , Emmigration : 17.
+2 City : Klagenfurt, Immigration : 17, Emmigration : 11 .
+3 What is the Immigration in Graz?	15	1
+1 City : Villach, Immigration : 11 , Emmigration : 18.
+2 City : Linz, Immigration : 17, Emmigration : 19 .
+3 What is the Immigration in Linz?	17	2
+1 City : Bludenz, Immigration : 14 , Emmigration : 12.
+2 City : Graz, Immigration : 14, Emmigration : 16 .
+3 What is the Emmigration in Graz?	16	2
+1 City : Bludenz, Immigration : 19 , Emmigration : 18.
+2 City : Feldkirch, Immigration : 11, Emmigration : 14 .
+3 What is the Immigration in Bludenz?	19	1
+1 City : Salzburg, Immigration : 12 , Emmigration : 15.
+2 City : Feldkirch, Immigration : 16, Emmigration : 15 .
+3 What is the Emmigration in Salzburg?	15	1
+1 City : Salzburg, Immigration : 10 , Emmigration : 12.
+2 City : Klagenfurt, Immigration : 13, Emmigration : 13 .
+3 What is the Immigration in Salzburg?	10	1
+1 City : Salzburg, Immigration : 19 , Emmigration : 18.
+2 City : Bludenz, Immigration : 18, Emmigration : 19 .
+3 What is the Emmigration in Bludenz?	19	2
+1 City : Graz, Immigration : 18 , Emmigration : 12.
+2 City : Feldkirch, Immigration : 12, Emmigration : 10 .
+3 What is the Immigration in Graz?	18	1
+1 City : Bludenz, Immigration : 12 , Emmigration : 14.
+2 City : Feldkirch, Immigration : 18, Emmigration : 13 .
+3 What is the Immigration in Bludenz?	12	1
+1 City : Linz, Immigration : 19 , Emmigration : 10.
+2 City : Graz, Immigration : 11, Emmigration : 15 .
+3 What is the Immigration in Graz?	11	2
+1 City : Linz, Immigration : 10 , Emmigration : 19.
+2 City : Wien, Immigration : 10, Emmigration : 18 .
+3 What is the Emmigration in Linz?	19	1
+1 City : Wien, Immigration : 15 , Emmigration : 14.
+2 City : Linz, Immigration : 18, Emmigration : 18 .
+3 What is the Immigration in Wien?	15	1
+1 City : Feldkirch, Immigration : 14 , Emmigration : 11.
+2 City : Bludenz, Immigration : 18, Emmigration : 17 .
+3 What is the Immigration in Feldkirch?	14	1
+1 City : Klagenfurt, Immigration : 11 , Emmigration : 18.
+2 City : Villach, Immigration : 19, Emmigration : 19 .
+3 What is the Immigration in Klagenfurt?	11	1
+1 City : Wien, Immigration : 14 , Emmigration : 12.
+2 City : Graz, Immigration : 14, Emmigration : 12 .
+3 What is the Emmigration in Wien?	12	1
+1 City : Wien, Immigration : 10 , Emmigration : 12.
+2 City : Feldkirch, Immigration : 16, Emmigration : 14 .
+3 What is the Emmigration in Feldkirch?	14	2
+1 City : Linz, Immigration : 19 , Emmigration : 16.
+2 City : Wien, Immigration : 11, Emmigration : 10 .
+3 What is the Immigration in Wien?	11	2
+1 City : Feldkirch, Immigration : 12 , Emmigration : 18.
+2 City : Salzburg, Immigration : 17, Emmigration : 16 .
+3 What is the Immigration in Salzburg?	17	2
+1 City : Klagenfurt, Immigration : 13 , Emmigration : 19.
+2 City : Wien, Immigration : 17, Emmigration : 16 .
+3 What is the Immigration in Wien?	17	2
+1 City : Bludenz, Immigration : 15 , Emmigration : 16.
+2 City : Linz, Immigration : 10, Emmigration : 13 .
+3 What is the Emmigration in Linz?	13	2
+1 City : Linz, Immigration : 14 , Emmigration : 18.
+2 City : Wien, Immigration : 13, Emmigration : 15 .
+3 What is the Immigration in Wien?	13	2
+1 City : Bludenz, Immigration : 16 , Emmigration : 14.
+2 City : Klagenfurt, Immigration : 18, Emmigration : 15 .
+3 What is the Immigration in Klagenfurt?	18	2
+1 City : Wien, Immigration : 14 , Emmigration : 16.
+2 City : Klagenfurt, Immigration : 10, Emmigration : 19 .
+3 What is the Immigration in Wien?	14	1
+1 City : Villach, Immigration : 10 , Emmigration : 19.
+2 City : Linz, Immigration : 12, Emmigration : 16 .
+3 What is the Immigration in Villach?	10	1
+1 City : Feldkirch, Immigration : 16 , Emmigration : 12.
+2 City : Graz, Immigration : 19, Emmigration : 18 .
+3 What is the Immigration in Graz?	19	2
+1 City : Graz, Immigration : 12 , Emmigration : 14.
+2 City : Linz, Immigration : 10, Emmigration : 10 .
+3 What is the Emmigration in Graz?	14	1
+1 City : Salzburg, Immigration : 11 , Emmigration : 17.
+2 City : Graz, Immigration : 13, Emmigration : 13 .
+3 What is the Emmigration in Salzburg?	17	1
+1 City : Klagenfurt, Immigration : 18 , Emmigration : 16.
+2 City : Salzburg, Immigration : 12, Emmigration : 18 .
+3 What is the Emmigration in Klagenfurt?	16	1
+1 City : Linz, Immigration : 13 , Emmigration : 16.
+2 City : Wien, Immigration : 11, Emmigration : 17 .
+3 What is the Immigration in Linz?	13	1
+1 City : Salzburg, Immigration : 10 , Emmigration : 14.
+2 City : Feldkirch, Immigration : 15, Emmigration : 15 .
+3 What is the Immigration in Feldkirch?	15	2
+1 City : Bludenz, Immigration : 16 , Emmigration : 16.
+2 City : Klagenfurt, Immigration : 19, Emmigration : 18 .
+3 What is the Immigration in Bludenz?	16	1
+1 City : Klagenfurt, Immigration : 18 , Emmigration : 16.
+2 City : Graz, Immigration : 12, Emmigration : 12 .
+3 What is the Immigration in Graz?	12	2
+1 City : Feldkirch, Immigration : 10 , Emmigration : 11.
+2 City : Salzburg, Immigration : 10, Emmigration : 13 .
+3 What is the Emmigration in Feldkirch?	11	1
+1 City : Feldkirch, Immigration : 15 , Emmigration : 10.
+2 City : Linz, Immigration : 10, Emmigration : 18 .
+3 What is the Immigration in Linz?	10	2
+1 City : Salzburg, Immigration : 13 , Emmigration : 18.
+2 City : Feldkirch, Immigration : 14, Emmigration : 17 .
+3 What is the Emmigration in Feldkirch?	17	2
+1 City : Villach, Immigration : 15 , Emmigration : 14.
+2 City : Feldkirch, Immigration : 11, Emmigration : 18 .
+3 What is the Immigration in Villach?	15	1
+1 City : Feldkirch, Immigration : 12 , Emmigration : 19.
+2 City : Villach, Immigration : 11, Emmigration : 18 .
+3 What is the Immigration in Villach?	11	2
+1 City : Linz, Immigration : 11 , Emmigration : 14.
+2 City : Salzburg, Immigration : 14, Emmigration : 15 .
+3 What is the Immigration in Linz?	11	1
+1 City : Graz, Immigration : 15 , Emmigration : 17.
+2 City : Bludenz, Immigration : 13, Emmigration : 10 .
+3 What is the Immigration in Graz?	15	1
+1 City : Salzburg, Immigration : 18 , Emmigration : 17.
+2 City : Linz, Immigration : 16, Emmigration : 14 .
+3 What is the Emmigration in Linz?	14	2
+1 City : Bludenz, Immigration : 11 , Emmigration : 18.
+2 City : Feldkirch, Immigration : 12, Emmigration : 17 .
+3 What is the Emmigration in Feldkirch?	17	2
+1 City : Linz, Immigration : 15 , Emmigration : 14.
+2 City : Graz, Immigration : 12, Emmigration : 19 .
+3 What is the Emmigration in Graz?	19	2
+1 City : Villach, Immigration : 18 , Emmigration : 12.
+2 City : Klagenfurt, Immigration : 18, Emmigration : 18 .
+3 What is the Emmigration in Klagenfurt?	18	2
