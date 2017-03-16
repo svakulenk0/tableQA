@@ -15,6 +15,7 @@ Question answering on tables using deep learning.
 1. Syntheticaly generated data samples of T/QA (table/question+answer)
 
 Number of training samples: 10000
+Train on 9500 samples, validate on 500 samples
 Number of test samples: 500
 
 Patterns:
@@ -74,7 +75,10 @@ Test loss / test accuracy = 0.0245 / 0.9900
 
 ** MemNN
 
+120 Epochs + EarlyStopping
 
+loss: 0.0038 - acc: 0.9990 - val_loss: 11.8909 - val_acc: 0.1680
+[Finished in 417.5s]
 
 * Pattern2
 
@@ -86,8 +90,7 @@ Test loss / test accuracy = 0.0014 / 1.0000
 
 ** MemNN
 
-loss: 0.0038 - acc: 0.9990 - val_loss: 11.8909 - val_acc: 0.1680
-[Finished in 417.5s]
+
 
 2. Real table data (training and testing on the samples of the original sample table)
 

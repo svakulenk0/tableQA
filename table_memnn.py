@@ -27,6 +27,7 @@ from keras.layers import Activation, Dense, Merge, Permute, Dropout
 from keras.layers import LSTM
 from keras.utils.data_utils import get_file
 from keras.preprocessing.sequence import pad_sequences
+from keras.callbacks import EarlyStopping
 
 from functools import reduce
 
@@ -35,6 +36,10 @@ import numpy as np
 import re
 
 from parse_table import get_tables
+
+
+BATCH_SIZE = 32
+EPOCHS = 120
 
 
 def vectorize_stories(data, word_idx, story_maxlen, query_maxlen):
@@ -128,28 +133,35 @@ def train_memnn(train, test):
 
     # concatenate the match vector with the question vector,
     # and do logistic regression on top
-    answer = Sequential()
-    answer.add(Merge([response, question_encoder], mode='concat', concat_axis=-1))
+    model = Sequential()
+    model.add(Merge([response, question_encoder], mode='concat', concat_axis=-1))
     # the original paper uses a matrix multiplication for this reduction step.
     # we choose to use a RNN instead.
-    answer.add(LSTM(32))
+    model.add(LSTM(32))
     # one regularization layer -- more would probably be needed.
-    answer.add(Dropout(0.3))
-    answer.add(Dense(vocab_size))
+    model.add(Dropout(0.3))
+    model.add(Dense(vocab_size))
     # we output a probability distribution over the vocabulary
-    answer.add(Activation('softmax'))
+    model.add(Activation('softmax'))
 
-    answer.compile(optimizer='rmsprop', loss='categorical_crossentropy',
+    model.compile(optimizer='rmsprop', loss='categorical_crossentropy',
                    metrics=['accuracy'])
-    # Note: you could use a Graph model to avoid repeat the input twice
-    answer.fit([inputs_train, queries_train, inputs_train], answers_train,
-               batch_size=32,
-               nb_epoch=120,
-               validation_data=([inputs_test, queries_test, inputs_test], answers_test))
 
+    earlyStopping = EarlyStopping(monitor='val_loss', patience=0, verbose=0, mode='auto')
+    # Note: you could use a Graph model to avoid repeat the input twice
+    model.fit([inputs_train, queries_train, inputs_train], answers_train,
+               batch_size=BATCH_SIZE,
+               nb_epoch=EPOCHS,
+               callbacks=[earlyStopping],
+               validation_split=0.05)
+               # validation_data=([inputs_test, queries_test, inputs_test], answers_test))
+    loss, acc = model.evaluate([inputs_test, queries_test], answers_test, batch_size=BATCH_SIZE)
+    print('Test loss / test accuracy = {:.4f} / {:.4f}'.format(loss, acc))
 
 if __name__ == "__main__":
     data_path = './data/synth_data_{}.txt'
+    # data_path = './data/pattern_1/synth_data_{}.txt'
+    # data_path = './data/pattern_2/synth_data_{}.txt'
     # data_path = './data/table_data_{}.txt'
     # data_path = './data/sim_data_{}.txt'
     train = get_tables(data_path.format('train'))
