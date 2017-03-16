@@ -147,7 +147,7 @@ def train_memnn(train, test):
     model.compile(optimizer='rmsprop', loss='categorical_crossentropy',
                    metrics=['accuracy'])
 
-    earlyStopping = EarlyStopping(monitor='val_loss', patience=0, verbose=0, mode='auto')
+    earlyStopping = EarlyStopping(monitor='val_loss', patience=2, verbose=0, mode='auto')
     # Note: you could use a Graph model to avoid repeat the input twice
     model.fit([inputs_train, queries_train, inputs_train], answers_train,
                batch_size=BATCH_SIZE,
@@ -155,7 +155,7 @@ def train_memnn(train, test):
                callbacks=[earlyStopping],
                validation_split=0.05)
                # validation_data=([inputs_test, queries_test, inputs_test], answers_test))
-    loss, acc = model.evaluate([inputs_test, queries_test], answers_test, batch_size=BATCH_SIZE)
+    loss, acc = model.evaluate([inputs_test, queries_test, inputs_test], answers_test, batch_size=BATCH_SIZE)
     print('Test loss / test accuracy = {:.4f} / {:.4f}'.format(loss, acc))
 
 if __name__ == "__main__":
