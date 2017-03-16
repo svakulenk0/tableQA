@@ -6,22 +6,26 @@ Question answering on tables using deep learning.
 * keras
 * numpy
 
-## Method
+## Methods
 
-* RNN LSTM
+* RNN
+
+RNN / Embed / Sent / Query = <class 'keras.layers.recurrent.LSTM'>, 50, 100, 100
+
+* MemNN (LSTM)
+
+Keras implementation
 
 ## Dataset
 
-1. Syntheticaly generated data samples of T/QA (table/question+answer)
+consists of samples of T/QA (table/question+answer)
+
+
+1. Syntheticaly generated
 
 Patterns:
 
 * Pattern1
-
-Number of training samples: 10000 (Train on 9500 samples, validate on 500 samples)
-Number of test samples: 500
-
-Sample:
 
 1 City : Graz, Immigration : 13 .
 2 City : Wien, Immigration : 18 .
@@ -30,6 +34,10 @@ Sample:
 Vocab size: 31 unique words
 Story max length: 24 words
 Query max length: 7 words
+
+Number of training samples: 10000
+Train on 9500 samples, validate on 500 samples
+Number of test samples: 500
 
 inputs_train shape: (10000, 24)
 inputs_test shape: (500, 24)
@@ -46,21 +54,35 @@ answers_test shape: (500, 31)
 2 City : Feldkirch, Immigration : 12, Emmigration : 17 .
 3 What is the Emmigration in Feldkirch?	17	2
 
+Vocab size: 30 unique words
+Story max length: 24 words
+Query max length: 7 words
+Number of training samples: 10000
+Train on 9500 samples, validate on 500 samples
+Number of test samples: 500
+
 2. Real table data (for training and testing)
 
-* Training (2213 + 117 validation set)
-* Test 16
+Vocab size: 1944 unique words
+Story max length: 320 words
+Query max length: 13 words
+Number of training samples: 2330
+Number of test samples: 16
 
+3. Simulated table data
 
-3. Simulated table data + Real table data (simulated data based on the real table data for training and real table data for testing only)
+Vocab size: 43 unique words
+Story max length: 400 words
+Query max length: 7 words
+Number of training samples: 12078
+Number of test samples: 557
+
+???
+4. Simulated table data + Real table data (simulated data based on the real table data for training and real table data for testing only)
 
 * Training 9002 (8551 + 451 validation set)
 * Test ?
 
-4. Simulated table data
-
-* Training 9002 (8551 + 451 validation set)
-* Test 500 ?
 
 ## Results
 
@@ -86,7 +108,7 @@ Test loss / test accuracy = 7.9514 / 0.2000
 
 => 120 Epochs + earlyStopping (patience=2)
 
-Epoch 39
+/ Epoch 39
 
 Training loss: 0.8698 - acc: 0.5498 - val_loss: 0.7459 - val_acc: 0.5200
 
@@ -98,9 +120,17 @@ Test loss / test accuracy = 3.5823 / 0.2680
 
 ** RNN
 
-Training loss: 0.0275 - acc: 0.9943 - val_loss: 5.1352e-04 - val_acc: 1.0000
+=> 40 Epochs
 
-Test loss / test accuracy = 0.0014 / 1.0000
+Training loss: 0.0359 - acc: 0.9928 - val_loss: 3.8414e-04 - val_acc: 1.0000
+
+Test loss / test accuracy = 0.0004 / 1.0000
+
+[Finished in 384.9s]
+
+=> 40 Epochs + earlyStopping (patience=2)
+
+
 
 ** MemNN
 
@@ -119,10 +149,14 @@ statistics to reduce vocabulary varience: max 10 unique values per column. Testi
 
 4. Simulated table data
 
-Training loss: 2.2920 - acc: 0.1357 - val_loss: 2.2902 - val_acc: 0.1042
-Test loss / test accuracy = 2.2820 / 0.1356
+** RNN
 
-[Finished in 11257.6s]
+=> 40 Epochs
+
+Training loss: 1.5180 - acc: 0.3019 - val_loss: 1.4857 - val_acc: 0.3278
+Test loss / test accuracy = 1.5054 / 0.2855
+
+[Finished in 8814.4s]
 
 ## License
 
