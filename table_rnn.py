@@ -30,6 +30,7 @@ from keras.layers import Dense, Merge, Dropout, RepeatVector
 from keras.layers import recurrent
 from keras.models import Sequential
 from keras.preprocessing.sequence import pad_sequences
+from keras.callbacks import EarlyStopping
 
 
 RNN = recurrent.LSTM
@@ -63,6 +64,18 @@ def train_rnn(train, test):
     story_maxlen = max(map(len, (x for x, _, _ in train + test)))
     query_maxlen = max(map(len, (x for _, x, _ in train + test)))
 
+    print('-')
+    print('Vocab size:', vocab_size, 'unique words')
+    print('Story max length:', story_maxlen, 'words')
+    print('Query max length:', query_maxlen, 'words')
+    print('Number of training samples:', len(train))
+    print('Number of test samples:', len(test))
+    print('-')
+    print('Here\'s what a "story" tuple looks like (input, query, answer):')
+    print(train[0])
+    print('-')
+    print('Vectorizing the word sequences...')
+
     X, Xq, Y = vectorize_stories(train, word_idx, story_maxlen, query_maxlen)
     tX, tXq, tY = vectorize_stories(test, word_idx, story_maxlen, query_maxlen)
 
@@ -95,9 +108,14 @@ def train_rnn(train, test):
     model.compile(optimizer='adam',
                   loss='categorical_crossentropy',
                   metrics=['accuracy'])
-
+    
+    earlyStopping = EarlyStopping(monitor='val_loss', patience=2, verbose=0, mode='auto')
     print('Training')
-    model.fit([X, Xq], Y, batch_size=BATCH_SIZE, nb_epoch=EPOCHS, validation_split=0.05)
+    model.fit([X, Xq], Y,
+               batch_size=BATCH_SIZE,
+               nb_epoch=EPOCHS,
+               # callbacks=[earlyStopping],
+               validation_split=0.05)
     loss, acc = model.evaluate([tX, tXq], tY, batch_size=BATCH_SIZE)
     print('Test loss / test accuracy = {:.4f} / {:.4f}'.format(loss, acc))
 
