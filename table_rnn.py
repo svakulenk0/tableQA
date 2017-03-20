@@ -114,7 +114,7 @@ def train_rnn(train, test):
     model.fit([X, Xq], Y,
                batch_size=BATCH_SIZE,
                nb_epoch=EPOCHS,
-               # callbacks=[earlyStopping],
+               callbacks=[earlyStopping],
                validation_split=0.05)
     loss, acc = model.evaluate([tX, tXq], tY, batch_size=BATCH_SIZE)
     print('Test loss / test accuracy = {:.4f} / {:.4f}'.format(loss, acc))
