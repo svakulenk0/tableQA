@@ -152,18 +152,18 @@ def train_memnn(train, test):
     model.fit([inputs_train, queries_train, inputs_train], answers_train,
                batch_size=BATCH_SIZE,
                nb_epoch=EPOCHS,
-               callbacks=[earlyStopping],
+               # callbacks=[earlyStopping],
                validation_split=0.05)
                # validation_data=([inputs_test, queries_test, inputs_test], answers_test))
     loss, acc = model.evaluate([inputs_test, queries_test, inputs_test], answers_test, batch_size=BATCH_SIZE)
     print('Test loss / test accuracy = {:.4f} / {:.4f}'.format(loss, acc))
 
 if __name__ == "__main__":
-    data_path = './data/synth_data_{}.txt'
+    # data_path = './data/synth_data_{}.txt'
     # data_path = './data/pattern_1/synth_data_{}.txt'
     # data_path = './data/pattern_2/synth_data_{}.txt'
     # data_path = './data/table_data_{}.txt'
-    # data_path = './data/sim_data_{}.txt'
+    data_path = './data/sim_data_{}.txt'
     train = get_tables(data_path.format('train'))
     test = get_tables(data_path.format('test'))
     # print (test)
