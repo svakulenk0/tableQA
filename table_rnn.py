@@ -34,7 +34,7 @@ from keras.callbacks import EarlyStopping
 
 
 RNN = recurrent.LSTM
-EMBED_HIDDEN_SIZE = 50
+EMBED_HIDDEN_SIZE = 100
 SENT_HIDDEN_SIZE = 100
 QUERY_HIDDEN_SIZE = 100
 BATCH_SIZE = 32
@@ -123,8 +123,8 @@ def train_rnn(train, test):
 if __name__ == "__main__":
     # data_path = './data/synth_data_{}.txt'
     # data_path = './data/table_data_{}.txt'
-    # data_path = './data/sim_data_{}.txt'
-    data_path = './data/mix_data_{}.txt'
+    data_path = './data/sim_data_{}.txt'
+    # data_path = './data/mix_data_{}.txt'
     train = get_tables(data_path.format('train'))
     test = get_tables(data_path.format('test'))
     # print (test)
