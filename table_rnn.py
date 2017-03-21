@@ -34,7 +34,7 @@ from keras.callbacks import EarlyStopping
 
 
 RNN = recurrent.LSTM
-EMBED_HIDDEN_SIZE = 100
+EMBED_HIDDEN_SIZE = 20
 SENT_HIDDEN_SIZE = 100
 QUERY_HIDDEN_SIZE = 100
 BATCH_SIZE = 32
@@ -109,7 +109,7 @@ def train_rnn(train, test):
                   loss='categorical_crossentropy',
                   metrics=['accuracy'])
     
-    earlyStopping = EarlyStopping(monitor='val_loss', patience=2, verbose=0, mode='auto')
+    earlyStopping = EarlyStopping(monitor='val_loss', patience=5, verbose=0, mode='auto')
     print('Training')
     model.fit([X, Xq], Y,
                batch_size=BATCH_SIZE,
